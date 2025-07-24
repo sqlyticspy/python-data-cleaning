@@ -1,0 +1,1051 @@
+order_id,customer_name,region,product,sales_rep,order_date,quantity,unit_price,discount,shipping_cost,revenue,total_cost,priority,sales_rep_email
+ELX-1000,TechMart,North,Fitbit Charge 6,Jane Doe,2023-04-25,9,887.72,0.17,22.84,"$6,631.27",6654.11,medium,jane.doe@yahoo.com
+ELX-1001,TechMart,Central,Power Bank,John Smith,2023-01-16,6,274.09,0.13,5.53,1430.75,1436.28,HIGH,john.smith@business.org
+ELX-1002,Electronics Plus,Central,Power Bank,Jane Doe,2023-08-18,38,344.66,0.22,20.18,10215.72,10235.9,High,jane.doe@yahoo.com
+ELX-1003,Electronics Plus,West,Screen Protector,Bob Wilson,2023-03-21,14,1149.3,0.08,6.85,14802.98,14809.83,medium,BOB.WILSON@YAHOO.COM
+ELX-1004,  TechMart  ,East,Wireless Charger,Mike Davis,2023-05-16,3,879.73,0.13,24.46,2296.1,2320.56,Medium,
+ELX-1005,GadgetHub,North,Phone Holder,Bob Wilson,2023-11-18,40,1064.26,0.09,8.85,"$38,739.06",38747.91,,
+ELX-1006,TechMart,North,Apple Watch Series 9,Bob Wilson,2023-02-10,15,1041.78,0.1,14.07,14064.03,14078.1,Low,bob.wilson@company.com
+ELX-1007,Digital World,South,Wireless Charger,Bob Wilson,2023-04-18,43,331.37,0.23,17.96,10971.66,10989.62,high,bob.wilson.@company.com
+ELX-1008,Smart Store,South,Phone Holder,Jane Doe,2023-03-25,30,464.65,0.25,17.8,10454.62,10472.42,medium,jane.doe@gmail.com
+ELX-1009,Smart Store,South,Screen Protector,John Smith,2023-04-28,3,968.98,,6.32,2616.25,2622.57,medium,john.smith.@gmail.com
+ELX-1010,Smart Store,East,Sony WH-1000XM5,Alice Brown,2023-07-22,42,558.74,0.07,9.93,21824.38,21834.31,high,-
+ELX-1011,Smart Store,Central,Fitbit Charge 6,Mike Davis,2023-08-08,38,488.29,0.05,24.95,17627.27,17652.22,high,mike.davis.@business.org
+ELX-1012,  Smart Store  ,west,MacBook Pro,John Smith,2023-02-26,10,758.52,0.2,13.44,6068.16,6081.6,High,john.smithbusiness.org
+ELX-1013,  TechMart  ,West,USB-C Cable,Mike Davis,2023-08-28,34,312.93,0.14,23.85,9150.07,9173.92,medium,MIKE.DAVIS@YAHOO.COM
+ELX-1014,TechMart,Central,Fitbit Charge 6,Bob Wilson,2023-02-27,19,530.2,0.11,24.08,8965.68,8989.76,,bob.wilsongmail.com
+ELX-1015,Digital World,Central,AirPods Pro,Mike Davis,2023-02-24,41,368.66,0.16,17.18,12696.65,12713.83,Medium,MIKE.DAVIS@GMAIL.COM
+ELX-1016,Electronics Plus,east,airpods pro,Mike Davis,2023-09-29,1,724.75,0.12,7.24,637.78,645.02,high,Missing
+ELX-1017,Digital World,East,Apple Watch Series 9,John Smith,2023-04-05,37,1137.14,0.02,14.72,41232.7,41247.42,Low,
+ELX-1018,TechMart,central,iPad Air,Jane Doe,2023-12-04,31,1137.02,0.04,15.55,33837.72,33853.27,high,jane.doe@company.com
+ELX-1019,Smart Store,West,Sony WH-1000XM5,Mike Davis,2023-12-20,13,859.84,0.1,18.43,10060.13,10078.56,High,mike.davis.@yahoo.com
+ELX-1020,  Digital World  ,West,Laptop Stand,Alice Brown,2023-03-03,16,281.27,0.08,16.77,4140.29,4157.06,,alice.brown.@business.org
+ELX-1021,Electronics Plus,Central,Apple Watch Series 9,John Smith,2023-02-06,46,762.86,0.06,23.11,32986.07,33009.18,low,JOHN.SMITH@GMAIL.COM
+ELX-1022,Digital World,North,Laptop Stand,Jane Doe,2023-05-23,43,590.22,0.13,19.47,22080.13,22099.6,low,jane.doe.@business.org
+ELX-1023,Smart Store,Central,Gaming Headset,Jane Doe,2023-08-31,27,240.64,0.02,13.62,6367.33,6380.95,Low,
+ELX-1024,GadgetHub,West,Bluetooth Speaker,John Smith,2023-12-11,42,1181.24,0.02,13.05,48619.84,48632.89,low,john.smithyahoo.com
+ELX-1025,Digital World,North,Apple Watch Series 9,Jane Doe,2023-04-08,35,546.61,0.11,10.57,17026.9,17037.47,medium,jane.doegmail.com
+ELX-1026,Electronics Plus,North,Bluetooth Speaker,Mike Davis,2023-02-20,4,787.79,0.14,5.3,2710.0,2715.3,medium,MIKE.DAVIS@BUSINESS.ORG
+ELX-1027,TechMart,South,Apple AirPods Pro,Alice Brown,2023-09-06,31,268.29,0.1,6.17,7485.29,7491.46,high,ALICE.BROWN@COMPANY.COM
+ELX-1028,  GadgetHub  ,NORTH,USB-C Cable,Bob Wilson,2023-08-21,19,516.26,0.24,24.91,7454.79,7479.7,high,bob.wilson@company.com
+ELX-1029,Smart Store,West,iPad Air,Jane Doe,2023-06-01,14,1162.92,0.14,15.84,14001.56,14017.4,Medium,jane.doe.@company.com
+ELX-1030,Digital World,North,Samsung Galaxy S24,Mike Davis,2023-09-02,33,1104.47,0.13,6.14,31709.33,31715.47,Medium,mike.davis@yahoo.com
+ELX-1031,Smart Store,North,AirPods Pro,John Smith,2023-11-01,5,815.13,0.06,7.4,3831.11,3838.51,,john.smith.@company.com
+ELX-1032,Smart Store,South,Samsung  Galaxy  S24,Mike Davis,2023-02-11,27,793.99,0.14,11.33,18436.45,18447.78,Medium,
+ELX-1033,Digital World,South,Screen Protector,Jane Doe,2023-05-16,26,170.09,0.16,14.14,3714.77,3728.91,Low,jane.doe.@yahoo.com
+ELX-1034,TechMart,North,Bluetooth Speaker,Mike Davis,2023-10-16,7,101.81,0.05,10.3,677.04,687.34,medium,MIKE.DAVIS@COMPANY.COM
+ELX-1035,  Digital World  ,North,Apple Watch Series 9,Bob Wilson,2023-05-26,11,534.25,0.14,11.05,"$5,054.01",5065.06,high,bob.wilsongmail.com
+ELX-1036,Smart Store,North,Phone Holder,Bob Wilson,2023-12-06,7,1127.63,0.03,7.31,7656.61,7663.92,low,bob.wilsoncompany.com
+ELX-1037,TechMart,Central,iPad Air,Bob Wilson,2023-05-25,39,264.6,0.09,18.75,"$9,390.65",9409.4,Medium,bob.wilsongmail.com
+ELX-1038,Digital World,Central,Gaming Headset,Bob Wilson,2023-01-27,6,766.63,0.21,5.88,3633.83,3639.71,medium,bob.wilson@yahoo.com
+ELX-1039,  Digital World  ,South,Fitbit Charge 6,Jane Doe,2023-08-15,36,851.22,0.14,7.24,26353.77,26361.01,Medium,JANE.DOE@GMAIL.COM
+ELX-1040,Electronics Plus,Central,Samsung Galaxy S24,Bob Wilson,2023-10-26,36,190.49,0.03,11.17,"$6,651.91",6663.08,high,bob.wilson@yahoo.com
+ELX-1041,TechMart,East,Sony WH-1000XM5,Jane Doe,2023-12-08,7,434.11,0.14,22.49,2613.34,2635.83,Medium,jane.doe@business.org
+ELX-1042,Smart Store,South,Apple Watch Series 9,Jane Doe,2023-04-01,27,44.37,0.18,11.64,982.35,993.99,Low,jane.doecompany.com
+ELX-1043,GadgetHub,South,Fitbit Charge 6,Jane Doe,2023-12-26,7,468.31,0.01,14.41,3245.39,3259.8,HIGH,JANE.DOE@COMPANY.COM
+ELX-1044,Electronics Plus,WEST,Wireless-Charger,Bob Wilson,2023-04-27,15,43.04,0.05,11.57,613.32,624.89,Medium,
+ELX-1045,TechMart,east,Wireless Charger,Mike Davis,2023-07-24,44,1177.66,0.13,23.78,"$45,080.82",45104.6,Medium,mike.davis.@business.org
+ELX-1046,TechMart,East,AirPods Pro,Mike Davis,2023-05-16,3,143.46,0.11,19.57,383.04,402.61,High,mike.davis@gmail.com
+ELX-1047,Digital World,West,Laptop Stand,John Smith,2023-07-17,37,240.24,,13.72,"$8,799.99",8813.71,low,-
+ELX-1048,Smart Store,Central,Sony WH-1000XM5,Bob Wilson,2023-08-09,5,1139.42,0.23,17.46,4386.77,4404.23,medium,bob.wilson@company.com
+ELX-1049,TechMart,east,Laptop Stand,Bob Wilson,2023-12-08,27,401.53,0.17,16.09,8998.29,9014.38,Low,bob.wilson.@yahoo.com
+ELX-1050,Electronics Plus,West,USB-C Cable,Jane Doe,2023-11-12,37,371.63,0.14,5.01,11825.27,11830.28,Medium,jane.doe.@gmail.com
+ELX-1051,Digital World,South,Power Bank,Mike Davis,2023-11-07,42,396.87,0.11,18.51,14835.0,14853.51,Medium,mike.davisgmail.com
+ELX-1052,Smart Store,West,AirPods Pro,John Smith,2023-05-26,33,801.67,0.15,6.87,22486.84,22493.71,HIGH,john.smith.@gmail.com
+ELX-1053,Electronics Plus,EAST,Apple Watch Series 9,Jane Doe,2023-03-17,2,69.76,0.25,17.23,104.64,121.87,,JANE.DOE@YAHOO.COM
+ELX-1054,TechMart,West,Power Bank,Mike Davis,2023-04-10,46,840.18,0.12,9.88,34010.49,34020.37,,mike.davis.@company.com
+ELX-1055,TechMart,North,Power Bank,Jane Doe,2023-04-01,45,628.78,0.01,9.98,28012.15,28022.13,medium,JANE.DOE@BUSINESS.ORG
+ELX-1056,TechMart,West,iPad Air,Alice Brown,2023-12-08,34,1185.65,-,24.0,34265.29,34289.29,low,alice.brown.@gmail.com
+ELX-1057,GadgetHub,Central,Laptop Stand,Alice Brown,2023-10-08,29,1078.19,0.19,14.49,25326.68,25341.17,HIGH,
+ELX-1058,Digital World,South,Fitbit Charge 6,Mike Davis,2023-09-06,41,298.51,0.11,19.27,10892.63,10911.9,Low,mike.daviscompany.com
+ELX-1059,  Electronics Plus  ,East,Screen Protector,Bob Wilson,2023-10-04,6,178.97,0.06,18.88,-,1028.27,Low,bob.wilson@gmail.com
+ELX-1060,Electronics Plus,North,Power Bank,Alice Brown,2023-06-19,35,567.12,0.02,21.66,19452.22,19473.88,Low,alice.brownyahoo.com
+ELX-1061,GadgetHub,CENTRAL,iPhone 15,Mike Davis,2023-07-14,31,21.99,0.09,20.07,620.34,640.41,HIGH,mike.davisbusiness.org
+ELX-1062,GadgetHub,Central,Phone Holder,Mike Davis,2023-04-23,32,275.01,0.11,5.58,7832.28,7837.86,,mike.davis.@yahoo.com
+ELX-1063,Digital World,West,AirPods Pro,Alice Brown,2023-03-07,40,647.94,0.23,16.84,19956.55,19973.39,HIGH,alice.brownbusiness.org
+ELX-1064,TechMart,North,Power Bank,Jane Doe,2023-08-25,-12,74.59,0.09,9.23,814.52,823.75,Medium,jane.doebusiness.org
+ELX-1065,Digital World,East,USB-C Cable,Bob Wilson,2023-04-08,17,1004.37,0.12,19.98,"$15,025.38",15045.36,low,bob.wilson.@business.org
+ELX-1066,TechMart,east,Apple Watch Series 9,John Smith,2023-11-30,3,908.77,,8.99,2072.0,2080.99,HIGH,john.smithyahoo.com
+ELX-1067,TechMart,Central,iPad Air,Jane Doe,2023-03-06,31,808.31,0.14,9.36,21549.54,21558.9,high,JANE.DOE@GMAIL.COM
+ELX-1068,Digital World,East,AirPods Pro,Mike Davis,2023-11-07,48,866.25,0.19,8.28,33679.8,33688.08,Low,mike.davis@yahoo.com
+ELX-1069,Digital World,north,iPhone 15,Bob Wilson,2023-10-22,44,1091.01,0.09,23.83,43684.04,43707.87,Low,bob.wilson@business.org
+ELX-1070,Electronics Plus,North,Apple Watch Series 9,John Smith,2023-12-23,50,372.38,,21.11,15453.77,15474.88,High,JOHN.SMITH@BUSINESS.ORG
+ELX-1071,Smart Store,NORTH,Wireless Charger,Mike Davis,2023-08-08,43,454.13,0.13,11.82,16989.0,17000.82,High,mike.davisyahoo.com
+ELX-1072,  GadgetHub  ,West,Dell XPS 13,Alice Brown,2023-07-05,41,1071.52,0.11,8.06,39099.76,39107.82,high,
+ELX-1073,  Electronics Plus  ,Central,Fitbit Charge 6,Mike Davis,2023-10-03,50,587.94,0.11,19.62,26163.33,26182.95,,MIKE.DAVIS@BUSINESS.ORG
+ELX-1074,Digital World,East,Apple Watch Series 9,John Smith,2023-05-23,29,303.98,0.12,17.21,7757.57,7774.78,Medium,john.smith.@yahoo.com
+ELX-1075,GadgetHub,East,iPhone 15,Alice Brown,2023-06-16,12,592.75,0.09,10.17,6472.83,6483.0,High,ALICE.BROWN@BUSINESS.ORG
+ELX-1076,Digital World,Central,Fitbit Charge 6,Mike Davis,2023-01-06,34,1138.45,0.02,19.4,,37952.55,HIGH,mike.davis.@yahoo.com
+ELX-1077,GadgetHub,Central,Apple Watch Series 9,Alice Brown,2023-11-27,46,596.62,0.2,6.86,21955.62,21962.48,Medium,alice.brown.@yahoo.com
+ELX-1078,Electronics Plus,West,Apple Watch Series 9,Bob Wilson,2023-12-06,38,452.29,0.14,11.88,14780.84,14792.72,Low,Missing
+ELX-1079,Smart Store,East,Wireless Charger,Alice Brown,2023-05-19,20,312.91,0.03,8.85,6070.45,6079.3,Low,ALICE.BROWN@COMPANY.COM
+ELX-1080,TechMart,Central,AirPods Pro,Jane Doe,2023-04-21,48,588.78,0.18,24.53,23174.38,23198.91,high,jane.doe.@business.org
+ELX-1081,  Smart Store  ,Central,iPhone Case,John Smith,2023-10-04,19,284.57,0.04,5.28,5190.56,5195.84,Medium,john.smithgmail.com
+ELX-1082,Smart Store,South,Fitbit Charge 6,John Smith,2023-01-28,-36,361.18,0.24,17.76,9881.88,9899.64,Medium,john.smith.@gmail.com
+ELX-1083,GadgetHub,North,iPhone 15,Mike Davis,2023-05-26,31,582.28,0.09,24.31,16426.12,16450.43,high,
+ELX-1084,Digital World,West,Dell XPS 13,John Smith,2023-07-25,32,102.79,0.16,6.07,2763.0,2769.07,,
+ELX-1085,  Electronics Plus  ,Central,iPhone Case,John Smith,2023-05-08,8,676.32,0.1,16.92,4869.5,4886.42,Low,
+ELX-1086,Smart Store,South,Laptop Stand,Alice Brown,2023-08-19,29,367.36,0.15,13.58,"$9,055.42",9069.0,HIGH,alice.brown.@gmail.com
+ELX-1087,Smart Store,Central,Samsung Galaxy S24,Mike Davis,2023-02-20,49,261.23,0.05,18.21,12160.26,12178.47,Medium,mike.davisbusiness.org
+ELX-1088,Electronics Plus,South,AirPods Pro,Mike Davis,2023-02-08,11,18.17,0.11,16.88,177.88,194.76,,Missing
+ELX-1089,Digital World,North,Apple Watch Series 9,Bob Wilson,2023-12-28,19,848.04,0.11,18.75,"$14,340.36",14359.11,low,bob.wilson@yahoo.com
+ELX-1090,Digital World,Central,Sony WH-1000XM5,Alice Brown,2023-02-28,35,281.4,,10.31,9455.04,9465.35,medium,alice.brown.@company.com
+ELX-1091,Electronics Plus,North,Samsung Galaxy S24,Jane Doe,2023-07-06,39,902.51,0.14,10.77,30270.19,30280.96,Low,
+ELX-1092,TechMart,West,iPhone Case,Alice Brown,2023-05-20,33,654.88,0.11,16.96,19233.83,19250.79,HIGH,alice.brown.@company.com
+ELX-1093,GadgetHub,East,Fitbit Charge 6,John Smith,2023-02-16,15,1154.86,,16.5,13685.09,13701.59,HIGH,Missing
+ELX-1094,TechMart,East,Samsung Galaxy S24,Jane Doe,2023-08-29,34,787.04,0.23,8.63,20604.71,20613.34,high,Missing
+ELX-1095,Smart Store,West,Gaming Headset,John Smith,2023-08-29,23,498.89,0.08,7.09,10556.51,10563.6,high,john.smith@company.com
+ELX-1096,Electronics Plus,East,Power Bank,Alice Brown,2023-05-28,43,1135.05,0.2,16.0,,39061.72,HIGH,
+ELX-1097,GadgetHub,North,Screen-Protector,Bob Wilson,2023-06-15,8,1164.67,0.1,15.29,8385.62,8400.91,High,bob.wilson@company.com
+ELX-1098,TechMart,Central,Bluetooth Speaker,Alice Brown,2023-01-28,13,629.35,0.16,14.97,6872.5,6887.47,High,Missing
+ELX-1099,GadgetHub,North,Sony WH-1000XM5,Bob Wilson,2023-10-09,9,1114.29,0.11,18.97,8925.46,8944.43,,BOB.WILSON@YAHOO.COM
+ELX-1100,TechMart,North,Apple Watch Series 9,Jane Doe,2023-06-09,36,31.2,-,9.49,1010.88,1020.37,,JANE.DOE@YAHOO.COM
+ELX-1101,TechMart,West,Dell XPS 13,Jane Doe,2023-09-13,46,360.86,0.18,13.31,Missing,13624.95,low,jane.doe@yahoo.com
+ELX-1102,GadgetHub,West,Apple Watch Series 9,Alice Brown,2023-10-10,10,469.55,0.23,15.16,3615.54,3630.7,Low,alice.browncompany.com
+ELX-1103,Electronics Plus,North,Fitbit Charge 6,Alice Brown,2023-06-24,33,331.6,0.0,19.52,10942.8,10962.32,high,alice.brown@gmail.com
+ELX-1104,Smart Store,CENTRAL,Gaming Headset,Jane Doe,2023-08-17,35,588.94,0.08,20.26,18963.87,18984.13,medium,jane.doe@business.org
+ELX-1105,GadgetHub,West,SCREEN PROTECTOR,Jane Doe,2023-12-24,16,692.58,0.06,20.51,10416.4,10436.91,High,jane.doe.@company.com
+ELX-1106,TechMart,East,Gaming Headset,Alice Brown,2023-07-17,43,953.99,0.16,8.04,34458.12,34466.16,Low,alice.brown@gmail.com
+ELX-1107,TechMart,South,Laptop Stand,Mike Davis,2023-06-19,7,1050.92,0.11,15.52,6547.23,6562.75,Low,mike.davis.@yahoo.com
+ELX-1108,GadgetHub,North,iPad Air,Alice Brown,2023-12-02,10,103.67,0.2,10.3,829.36,839.66,low,alice.brownyahoo.com
+ELX-1109,Smart Store,West,MacBook Pro,Bob Wilson,2023-12-12,35,465.31,0.08,19.37,14982.98,15002.35,low,bob.wilsonbusiness.org
+ELX-1110,GadgetHub,Central,Samsung Galaxy S24,Mike Davis,2023-02-05,16,762.93,0.23,24.95,9399.3,9424.25,High,mike.daviscompany.com
+ELX-1111,TechMart,West,Dell XPS 13,John Smith,2023-08-16,11,837.39,0.23,5.92,7092.69,7098.61,medium,john.smith.@company.com
+ELX-1112,TechMart,East,Wireless Charger,Bob Wilson,2023-08-09,10,304.37,0.1,18.64,2739.33,2757.97,High,bob.wilsonbusiness.org
+ELX-1113,Electronics Plus,South,AirPods Pro,John Smith,2023-11-09,25,749.36,0.06,23.26,17609.96,17633.22,Low,john.smith@yahoo.com
+ELX-1114,Electronics Plus,South,Bluetooth Speaker,Bob Wilson,2023-08-24,17,805.21,0.22,14.31,10677.08,10691.39,Low,bob.wilson@gmail.com
+ELX-1115,Digital World,Central,AirPods Pro,John Smith,2023-08-15,23,1185.37,0.07,24.24,25355.06,25379.3,high,JOHN.SMITH@GMAIL.COM
+ELX-1116,Digital World,West,iPhone Case,Jane Doe,2023-07-16,31,141.38,0.1,12.18,3944.5,3956.68,medium,
+ELX-1117,Digital World,East,Apple iPhone 15,Alice Brown,2023-05-21,1,685.63,0.17,19.89,569.07,588.96,Low,alice.brown.@yahoo.com
+ELX-1118,TechMart,Central,Gaming Headset,Bob Wilson,2023-04-28,39,965.29,0.05,8.8,35763.99,35772.79,high,bob.wilson@company.com
+ELX-1119,  Digital World  ,South,Dell XPS 13,John Smith,2023-06-08,29,54.54,0.09,7.63,1439.31,1446.94,medium,john.smithyahoo.com
+ELX-1120,Digital World,East,Power Bank,Jane Doe,2023-04-13,9,947.02,0.22,12.32,"$6,648.08",6660.4,Medium,jane.doe.@gmail.com
+ELX-1121,Smart Store,East,AirPods Pro,Bob Wilson,2023-09-04,19,899.67,0.08,7.3,15726.23,15733.53,Low,Missing
+ELX-1122,TechMart,South,Apple Watch Series 9,Alice Brown,2023-10-13,24,122.01,0.1,10.29,2635.42,2645.71,HIGH,alice.brown.@yahoo.com
+ELX-1123,TechMart,WEST,Wireless Charger,Bob Wilson,2023-10-27,25,989.56,0.24,7.17,18801.64,18808.81,,bob.wilson@gmail.com
+ELX-1124,Electronics Plus,West,Apple iPhone 15,Mike Davis,2023-10-15,21,1099.58,0.06,6.26,21705.71,21711.97,high,MIKE.DAVIS@GMAIL.COM
+ELX-1125,GadgetHub,East,Portable Charger,John Smith,2023-03-13,3,1136.32,0.08,14.85,"$3,136.24",3151.09,high,john.smith@business.org
+ELX-1126,TechMart,South,Phone Holder,Jane Doe,2023-07-18,30,454.65,0.24,18.93,10366.02,10384.95,High,JANE.DOE@GMAIL.COM
+ELX-1127,  Smart Store  ,west,iPad Air,Alice Brown,2023-02-12,7,1002.93,0.15,23.78,"$5,967.43",5991.21,HIGH,alice.brown@yahoo.com
+ELX-1128,Digital World,NORTH,Wireless Charger,Jane Doe,2023-08-16,29,1141.41,0.21,6.99,26149.7,26156.69,high,jane.doebusiness.org
+ELX-1129,Digital World,Central,Wireless Charger,John Smith,2023-07-23,18,239.92,0.03,21.96,4189.0,4210.96,low,john.smith.@company.com
+ELX-1130,GadgetHub,North,Sony WH-1000XM5,Mike Davis,2023-11-01,4,947.35,0.06,7.52,3562.04,3569.56,,MIKE.DAVIS@BUSINESS.ORG
+ELX-1131,Smart Store,South,MacBook Pro,Mike Davis,2023-04-17,38,270.9,0.22,11.57,"$8,029.48",8041.05,,mike.davis.@gmail.com
+ELX-1132,Electronics Plus,Central,iPhone 15,Bob Wilson,2023-03-16,9,655.16,0.2,7.2,4717.15,4724.35,,
+ELX-1133,TechMart,South,iPhone 15,Bob Wilson,2023-05-02,38,398.67,0.04,6.05,14543.48,14549.53,Low,bob.wilson.@gmail.com
+ELX-1134,GadgetHub,Central,Dell XPS 13,John Smith,2023-09-01,29,936.95,0.13,7.18,23639.25,23646.43,Low,
+ELX-1135,Smart Store,South,Samsung Galaxy S24,Mike Davis,2023-06-04,30,777.36,0.01,24.97,23087.59,23112.56,Low,mike.davis@business.org
+ELX-1136,GadgetHub,West,Dell XPS 13,Alice Brown,2023-12-31,29,102.09,0.02,17.17,Missing,2918.57,,
+ELX-1137,TechMart,south,Fitbit Charge 6,Mike Davis,2023-11-21,38,664.8,0.08,24.89,"$23,241.41",23266.3,Medium,mike.davis.@business.org
+ELX-1138,Smart Store,East,Bluetooth Speaker,Mike Davis,2023-11-06,28,132.53,0.18,22.06,3042.89,3064.95,Medium,
+ELX-1139,  Smart Store  ,South,Power Bank,Alice Brown,2023-04-27,27,416.63,0.11,13.32,Missing,10024.94,high,
+ELX-1140,TechMart,East,Power Bank,Bob Wilson,2023-12-07,17,458.55,0.04,23.46,7483.54,7507.0,Medium,
+ELX-1141,TechMart,North,MacBook Pro,John Smith,2023-08-10,7,897.34,0.09,7.6,5716.06,5723.66,,
+ELX-1142,TechMart,Central,Phone Holder,Mike Davis,2023-06-18,43,159.84,0.09,18.31,6254.54,6272.85,Medium,mike.davis.@business.org
+ELX-1143,GadgetHub,North,iPhone Case,Mike Davis,2023-06-09,23,137.77,0.13,8.09,"$2,756.78",2764.87,low,MIKE.DAVIS@BUSINESS.ORG
+ELX-1144,GadgetHub,South,Dell XPS 13,Bob Wilson,2023-10-12,24,151.14,0.07,9.52,3373.44,3382.96,high,bob.wilson.@gmail.com
+ELX-1145,GadgetHub,Central,Phone Holder,John Smith,2023-11-08,43,997.91,0.07,8.61,"$39,906.42",39915.03,Low,john.smithcompany.com
+ELX-1146,Digital World,East,Wireless Charger,John Smith,2023-04-03,10,686.09,0.1,7.84,6174.81,6182.65,High,john.smith@gmail.com
+ELX-1147,TechMart,North,Laptop Stand,Jane Doe,2023-07-12,27,552.57,0.04,11.23,14322.61,14333.84,Medium,jane.doeyahoo.com
+ELX-1148,Digital World,Central,MacBook Pro,John Smith,2023-03-21,11,909.01,0.01,6.63,9899.12,9905.75,HIGH,JOHN.SMITH@BUSINESS.ORG
+ELX-1149,GadgetHub,West,Gaming Headset,Mike Davis,2023-08-15,27,338.7,0.19,7.28,7407.37,7414.65,low,mike.davis@yahoo.com
+ELX-1150,  GadgetHub  ,North,iPhone Case,Mike Davis,2023-07-09,34,805.55,0.01,12.91,27114.81,27127.72,Low,-
+ELX-1151,  Smart Store  ,North,iPhone 15,Jane Doe,2023-06-04,14,924.31,0.19,10.79,10481.68,10492.47,medium,jane.doe@yahoo.com
+ELX-1152,TechMart,North,Gaming Headset,Alice Brown,2023-03-31,9,465.55,0.18,15.01,3435.76,3450.77,,alice.brown.@business.org
+ELX-1153,Digital World,North,USB C Cable,John Smith,2023-08-12,2,559.81,0.02,11.26,1097.23,1108.49,low,john.smith.@business.org
+ELX-1154,GadgetHub,Central,USB-C Cable,Alice Brown,2023-05-29,8,494.96,0.24,8.44,3009.36,3017.8,High,alice.browncompany.com
+ELX-1155,Smart Store,west,Wireless Charger,John Smith,2023-08-12,7,303.33,0.15,15.48,1804.81,1820.29,High,john.smith.@gmail.com
+ELX-1156,  GadgetHub  ,East,Screen Protector,Jane Doe,2023-06-20,50,214.24,0.13,7.28,9319.44,9326.72,medium,jane.doe@business.org
+ELX-1157,Smart Store,south,Wireless Charger,Bob Wilson,2023-11-27,10,294.98,0.04,8.95,2831.81,2840.76,HIGH,bob.wilsoncompany.com
+ELX-1158,  Smart Store  ,South,MacBook Pro,Jane Doe,2023-11-18,32,564.78,0.14,16.59,15542.75,15559.34,Low,JANE.DOE@BUSINESS.ORG
+ELX-1159,  Smart Store  ,Central,Screen Protector,Bob Wilson,2023-03-19,29,95.92,0.11,11.06,2475.7,2486.76,,bob.wilson.@business.org
+ELX-1160,Digital World,Central,Samsung Galaxy S24,Bob Wilson,2023-09-17,5,382.83,0.11,6.14,1703.59,1709.73,medium,bob.wilson.@yahoo.com
+ELX-1161,Digital World,North,MacBook Pro,Mike Davis,2023-11-01,33,470.61,0.15,24.08,13200.61,13224.69,high,
+ELX-1162,TechMart,West,Sony WH-1000XM5,Bob Wilson,2023-11-06,31,609.12,0.24,14.01,14350.87,14364.88,medium,
+ELX-1163,Digital World,North,Laptop Stand,Jane Doe,2023-01-21,16,853.53,0.25,15.48,10242.36,10257.84,Medium,jane.doebusiness.org
+ELX-1164,Smart Store,South,Wireless Charger,Bob Wilson,2023-05-25,25,499.39,0.08,16.96,11485.97,11502.93,High,bob.wilsongmail.com
+ELX-1165,  Digital World  ,North,Screen Protector,John Smith,2023-10-13,44,473.08,0.06,22.03,"$19,566.59",19588.62,high,john.smithgmail.com
+ELX-1166,  Smart Store  ,South,Screen Protector,John Smith,2023-10-26,43,182.59,0.09,24.35,7144.75,7169.1,low,
+ELX-1167,GadgetHub,South,MacBook Pro,Bob Wilson,2023-10-14,25,777.54,0.08,7.56,17883.42,17890.98,Low,-
+ELX-1168,Smart Store,North,Power Bank,Mike Davis,2023-07-05,2,444.68,0.05,9.28,844.89,854.17,HIGH,MIKE.DAVIS@YAHOO.COM
+ELX-1169,GadgetHub,South,Apple Watch Series 9,Jane Doe,2023-03-21,5,365.51,0.2,15.15,1462.04,1477.19,Low,jane.doebusiness.org
+ELX-1170,Smart Store,Central,Samsung  Galaxy  S24,Bob Wilson,2023-11-13,9,722.74,0.04,8.62,6244.47,6253.09,high,
+ELX-1171,  Smart Store  ,South,Bluetooth Speaker,John Smith,2023-07-30,24,816.49,0.06,13.88,18420.01,18433.89,high,john.smith@company.com
+ELX-1172,Digital World,WEST,Apple Watch Series 9,Mike Davis,2023-05-03,20,1159.23,Missing,23.08,18547.68,18570.76,low,mike.davis.@business.org
+ELX-1173,Electronics Plus,East,Bluetooth Speaker,Alice Brown,2023-05-25,50,467.52,0.13,24.33,20337.12,20361.45,Low,ALICE.BROWN@COMPANY.COM
+ELX-1174,Electronics Plus,Central,iPad Air,Bob Wilson,2023-01-27,42,584.5,0.09,23.69,Missing,22363.28,low,BOB.WILSON@COMPANY.COM
+ELX-1175,Smart Store,North,iPhone Case,John Smith,2023-03-24,18,547.44,0.13,21.62,"$8,572.91",8594.53,Medium,JOHN.SMITH@COMPANY.COM
+ELX-1176,TechMart,South,Bluetooth Speaker,Bob Wilson,2023-01-14,27,78.11,0.13,9.72,1834.8,1844.52,Medium,bob.wilsonyahoo.com
+ELX-1177,TechMart,EAST,Apple Watch Series 9,John Smith,2023-06-13,7,1009.42,0.16,20.83,5935.39,5956.22,HIGH,JOHN.SMITH@COMPANY.COM
+ELX-1178,Electronics Plus,North,iPhone Case,Alice Brown,2023-12-23,9,914.23,0.12,17.31,7240.7,7258.01,HIGH,ALICE.BROWN@YAHOO.COM
+ELX-1179,  TechMart  ,North,Fitbit Charge 6,Jane Doe,2023-03-18,36,1129.17,0.15,13.47,34552.6,34566.07,,JANE.DOE@COMPANY.COM
+ELX-1180,Digital World,SOUTH,iPhone Case,John Smith,2023-01-25,16,512.49,0.2,14.14,6559.87,6574.01,medium,-
+ELX-1181,TechMart,west,Phone Holder,John Smith,2023-11-20,33,696.43,0.18,10.83,18845.4,18856.23,high,john.smith.@yahoo.com
+ELX-1182,TechMart,Central,Wireless Charger,Jane Doe,2023-10-20,27,236.97,0.17,15.47,5310.5,5325.97,Low,jane.doeyahoo.com
+ELX-1183,Digital World,North,Laptop Stand,Mike Davis,2023-09-17,33,671.67,0.1,14.4,19948.6,19963.0,,mike.davis@business.org
+ELX-1184,GadgetHub,East,Fitbit Charge 6,John Smith,2023-07-02,5,423.59,0.18,17.57,"$1,736.72",1754.29,Low,
+ELX-1185,Smart Store,East,iPad Air,John Smith,2023-06-30,35,416.18,0.16,21.61,"$12,235.69",12257.3,Low,
+ELX-1186,GadgetHub,West,AirPods Pro,Jane Doe,2023-02-02,46,934.79,0.11,10.87,38270.3,38281.17,low,jane.doe.@gmail.com
+ELX-1187,TechMart,south,Samsung Galaxy S24,Bob Wilson,2023-06-08,33,486.9,0.2,14.47,12854.16,12868.63,High,bob.wilsonyahoo.com
+ELX-1188,TechMart,South,iPhone Case,Bob Wilson,2023-01-25,42,408.33,0.03,12.36,16635.36,16647.72,High,BOB.WILSON@GMAIL.COM
+ELX-1189,GadgetHub,West,USB-C Cable,Bob Wilson,2023-04-06,32,835.1,0.09,20.95,24318.11,24339.06,,bob.wilson.@business.org
+ELX-1190,Digital World,North,Power Bank,John Smith,2023-08-09,39,1194.19,0.05,10.88,44244.74,44255.62,HIGH,john.smith@gmail.com
+ELX-1191,TechMart,North,screen protector,Bob Wilson,2023-06-06,29,729.11,0.11,18.8,18818.33,18837.13,high,BOB.WILSON@BUSINESS.ORG
+ELX-1192,Digital World,West,Samsung Galaxy S24,Bob Wilson,2023-11-11,28,340.35,0.25,23.96,"$7,147.35",7171.31,HIGH,bob.wilson@yahoo.com
+ELX-1193,TechMart,West,Wireless Charger,Mike Davis,2023-12-14,11,1144.06,0.04,17.15,12081.27,12098.42,Medium,MIKE.DAVIS@COMPANY.COM
+ELX-1194,  GadgetHub  ,North,iPad Air,John Smith,2023-05-01,50,779.52,0.09,23.99,35468.16,35492.15,HIGH,john.smith.@yahoo.com
+ELX-1195,TechMart,Central,iPad Air,Alice Brown,2023-07-09,24,541.07,0.02,7.75,12725.97,12733.72,,alice.browngmail.com
+ELX-1196,Digital World,West,Screen Protector,Bob Wilson,2023-05-08,8,45.71,0.05,15.35,347.4,362.75,medium,bob.wilson.@company.com
+ELX-1197,Smart Store,North,Fitbit Charge 6,Bob Wilson,2023-12-27,29,269.27,0.15,18.88,6637.51,6656.39,medium,BOB.WILSON@BUSINESS.ORG
+ELX-1198,  GadgetHub  ,South,Dell XPS 13,Jane Doe,2023-02-07,29,219.6,0.18,24.95,,5247.04,Medium,jane.doe.@company.com
+ELX-1199,Digital World,East,MacBook Pro,Mike Davis,2023-10-05,19,1071.23,0.21,19.24,16079.16,16098.4,high,mike.davis.@business.org
+ELX-1200,  Electronics Plus  ,East,Laptop Stand,Jane Doe,2023-03-04,13,953.6,0.06,14.88,11652.99,11667.87,,jane.doe@yahoo.com
+ELX-1201,Digital World,Central,Wireless Charger,Alice Brown,2023-10-10,9,740.16,0.02,11.19,6528.21,6539.4,High,alice.brown@yahoo.com
+ELX-1202,GadgetHub,Central,Power Bank,Alice Brown,2023-10-22,5,163.51,0.08,6.48,752.15,758.63,Medium,alice.brown.@yahoo.com
+ELX-1203,GadgetHub,Central,Wireless Charger,Jane Doe,2023-10-10,41,711.53,0.19,7.58,23629.91,23637.49,medium,jane.doe.@yahoo.com
+ELX-1204,Smart Store,NORTH,Dell XPS 13,Mike Davis,2023-03-20,20,210.12,0.08,19.19,3866.21,3885.4,Medium,mike.davisgmail.com
+ELX-1205,Digital World,Central,Phone Case,John Smith,2023-05-09,13,767.54,0.14,7.5,8581.1,8588.6,Low,john.smith.@business.org
+ELX-1206,  Digital World  ,Central,Phone Holder,John Smith,2023-09-15,42,214.83,0.24,8.08,6857.37,6865.45,medium,JOHN.SMITH@COMPANY.COM
+ELX-1207,Smart Store,Central,Screen Protector,Mike Davis,2023-01-22,2,111.25,0.24,20.42,169.1,189.52,Low,mike.davisbusiness.org
+ELX-1208,Digital World,South,Power Bank,Mike Davis,2023-11-24,2,605.18,0.16,10.79,1016.7,1027.49,low,mike.davis@yahoo.com
+ELX-1209,Digital World,WEST,Apple Watch Series 9,Alice Brown,2023-06-02,30,101.47,0.01,13.79,3013.66,3027.45,Medium,alice.brownyahoo.com
+ELX-1210,GadgetHub,WEST,Sony WH-1000XM5,Bob Wilson,2023-11-07,10,385.41,0.18,19.68,,3180.04,medium,BOB.WILSON@GMAIL.COM
+ELX-1211,Digital World,West,iPad Air,Bob Wilson,2023-09-21,36,140.83,0.06,7.45,"$4,765.69",4773.14,,bob.wilsonyahoo.com
+ELX-1212,GadgetHub,South,iPad Air,John Smith,2023-01-26,19,1135.28,0.22,13.36,"$16,824.85",16838.21,medium,
+ELX-1213,Electronics Plus,East,Screen Protector,Jane Doe,2023-03-23,32,1195.22,0.12,22.58,33657.4,33679.98,Medium,jane.doe@company.com
+ELX-1214,GadgetHub,North,MacBook Pro,Alice Brown,2023-09-16,30,1160.52,0.05,12.06,"$33,074.82",33086.88,Medium,alice.browngmail.com
+ELX-1215,TechMart,East,Gaming Headset,Mike Davis,2023-12-01,44,572.65,0.13,21.94,21921.04,21942.98,Low,-
+ELX-1216,GadgetHub,South,Fitbit Charge 6,Bob Wilson,2023-07-26,24,68.61,0.01,16.24,1630.17,1646.41,High,bob.wilson.@company.com
+ELX-1217,Digital World,central,iphone case,John Smith,2023-07-17,33,548.67,0.14,21.51,15571.25,15592.76,Medium,john.smithgmail.com
+ELX-1218,Smart Store,CENTRAL,Dell XPS 13,Jane Doe,2023-02-19,26,457.24,0.25,16.16,8916.18,8932.34,Low,Missing
+ELX-1219,Digital World,South,Sony WH-1000XM5,Mike Davis,2023-09-18,26,607.59,0.01,7.74,15639.37,15647.11,,mike.davis.@business.org
+ELX-1220,Digital World,West,Laptop Stand,Alice Brown,2023-03-18,39,1073.36,0.03,23.63,"$40,605.21",40628.84,,ALICE.BROWN@COMPANY.COM
+ELX-1221,Digital World,SOUTH,USB-C Cable,Mike Davis,2023-06-03,38,413.6,0.21,15.65,"$12,416.27",12431.92,,MIKE.DAVIS@COMPANY.COM
+ELX-1222,Smart Store,East,Gaming Headset,John Smith,2023-07-08,22,813.46,0.24,16.67,13601.05,13617.72,,JOHN.SMITH@GMAIL.COM
+ELX-1223,TechMart,Central,Gaming Headset,Bob Wilson,2023-12-02,50,700.49,0.06,6.03,32923.03,32929.06,HIGH,bob.wilsonyahoo.com
+ELX-1224,GadgetHub,South,Laptop Stand,Mike Davis,2023-07-14,10,988.67,0.06,16.45,9293.5,9309.95,Low,mike.daviscompany.com
+ELX-1225,TechMart,SOUTH,IPHONE 15,Alice Brown,2023-10-06,27,194.45,0.17,13.21,4357.62,4370.83,Medium,ALICE.BROWN@BUSINESS.ORG
+ELX-1226,Smart Store,West,Samsung Galaxy S24,Jane Doe,2023-09-23,14,679.65,0.25,14.57,7136.33,7150.9,Medium,
+ELX-1227,GadgetHub,East,AirPods Pro,Alice Brown,2023-09-30,22,662.33,0.17,22.35,12094.15,12116.5,,ALICE.BROWN@GMAIL.COM
+ELX-1228,Digital World,Central,Gaming Headset,Jane Doe,2023-07-05,18,676.33,0.06,24.46,11443.5,11467.96,low,jane.doe.@business.org
+ELX-1229,Digital World,East,Sony WH-1000XM5,Alice Brown,2023-06-12,31,428.33,0.23,20.91,10224.24,10245.15,High,alice.brown@yahoo.com
+ELX-1230,Digital World,East,Dell XPS 13,Mike Davis,2023-12-13,35,464.94,0.25,21.37,12204.67,12226.05,Medium,
+ELX-1231,Electronics Plus,East,Samsung Galaxy S24,Bob Wilson,2023-02-10,23,1109.95,0.16,19.95,21444.23,21464.18,,bob.wilsonbusiness.org
+ELX-1232,Electronics Plus,South,Phone Holder,Bob Wilson,2023-10-15,45,336.87,0.03,19.82,14704.38,14724.2,low,
+ELX-1233,Electronics Plus,South,Samsung Galaxy S24,Mike Davis,2023-04-26,41,290.91,0.03,11.61,11569.49,11581.1,low,mike.davis@yahoo.com
+ELX-1234,GadgetHub,north,iPad Air,John Smith,2023-10-09,11,497.19,0.23,22.57,4211.2,4233.77,High,
+ELX-1235,GadgetHub,South,IPHONE CASE,Bob Wilson,2023-05-27,42,85.11,0.19,18.05,,2913.49,high,bob.wilson@yahoo.com
+ELX-1236,Electronics Plus,Central,Samsung Galaxy S24,Jane Doe,2023-08-02,12,1121.7,0.01,21.72,13325.8,13347.52,low,jane.doe.@company.com
+ELX-1237,GadgetHub,South,iPhone Case,John Smith,2023-01-05,20,688.03,0.03,24.66,13347.78,13372.44,Low,john.smith.@gmail.com
+ELX-1238,Digital World,WEST,Phone Holder,Mike Davis,2023-09-10,9,1023.51,0.12,8.86,8106.2,8115.06,low,MIKE.DAVIS@COMPANY.COM
+ELX-1239,TechMart,East,AirPods Pro,Alice Brown,2023-11-28,17,866.54,0.0,11.74,14731.18,14742.92,Medium,ALICE.BROWN@GMAIL.COM
+ELX-1240,Digital World,Central,Sony WH-1000XM5,Jane Doe,2023-11-09,41,1078.0,0.21,15.31,34916.42,34931.73,Medium,jane.doe@company.com
+ELX-1241,TechMart,WEST,Dell XPS 13,Jane Doe,2023-03-13,31,398.47,0.06,10.22,11611.42,11621.64,,Missing
+ELX-1242,Electronics Plus,West,Fitbit Charge 6,Bob Wilson,2023-06-04,38,871.62,0.0,18.07,"$33,121.56",33139.63,medium,bob.wilson.@gmail.com
+ELX-1243,Electronics Plus,north,Dell XPS 13,Alice Brown,2023-06-07,11,495420.0,0.13,22.9,4741.17,4764.07,Low,alice.brown@company.com
+ELX-1244,Digital World,North,iPhone Case,Bob Wilson,2023-11-11,15,274.67,0.03,8.06,3996.45,4004.51,Low,-
+ELX-1245,Smart Store,East,Power Bank,Mike Davis,2023-08-30,49,651.96,0.17,9.37,26515.21,26524.58,High,mike.davisbusiness.org
+ELX-1246,Electronics Plus,Central,MacBook Pro,Mike Davis,2023-08-17,34,848.96,0.02,16.28,28287.35,28303.63,high,MIKE.DAVIS@BUSINESS.ORG
+ELX-1247,TechMart,Central,Laptop Stand,Jane Doe,2023-10-21,35,192.58,0.08,15.41,6201.08,6216.49,Medium,jane.doe@gmail.com
+ELX-1248,  TechMart  ,South,Gaming Headset,John Smith,2023-09-19,29,973.3,0.11,15.26,25120.87,25136.13,Medium,john.smith@company.com
+ELX-1249,GadgetHub,Central,Samsung Galaxy S24,Mike Davis,2023-08-25,44,971.19,0.18,12.92,35040.54,35053.46,high,mike.davisyahoo.com
+ELX-1250,TechMart,south,MacBook Pro,John Smith,2023-08-05,23,844.96,0.14,6.21,16713.31,16719.52,HIGH,john.smith@yahoo.com
+ELX-1251,TechMart,West,Samsung Galaxy S24,Bob Wilson,2023-07-29,12,926.23,0.19,24.57,9002.96,9027.53,medium,bob.wilson@business.org
+ELX-1252,  GadgetHub  ,East,USB-C Cable,Alice Brown,2023-07-13,25,110.1,0.24,22.49,2091.9,2114.39,HIGH,
+ELX-1253,  Electronics Plus  ,East,Dell XPS 13,Jane Doe,2023-10-03,26,641.68,0.18,9.45,13680.62,13690.07,medium,jane.doe@company.com
+ELX-1254,TechMart,North,iPhone Case,Alice Brown,2023-12-11,47,660.17,0.13,21.47,"$26,994.35",27015.82,Low,alice.browncompany.com
+ELX-1255,Electronics Plus,West,Wireless Charger,Jane Doe,2023-05-22,13,1125.83,0.18,7.26,12001.35,12008.61,high,jane.doe.@gmail.com
+ELX-1256,GadgetHub,Central,iPhone 15,Jane Doe,2023-04-16,5,134.56,0.01,16.96,666.07,683.03,High,jane.doecompany.com
+ELX-1257,TechMart,SOUTH,Samsung Galaxy S24,Alice Brown,2023-08-13,15,654.62,0.19,20.52,7953.63,7974.15,high,ALICE.BROWN@COMPANY.COM
+ELX-1258,Electronics Plus,Central,iPhone-Case,Jane Doe,2023-10-22,21,699.31,0.19,21.37,11895.26,11916.63,low,Missing
+ELX-1259,Electronics Plus,East,iPad Air,Mike Davis,2023-04-24,27,371.09,0.02,23.97,9819.04,9843.01,Medium,mike.davis@gmail.com
+ELX-1260,  Electronics Plus  ,West,Phone Holder,Alice Brown,2023-01-25,23,1130.78,0.17,20.72,21586.59,21607.31,High,ALICE.BROWN@YAHOO.COM
+ELX-1261,  Digital World  ,West,PowerBank,Jane Doe,2023-06-03,25,232.9,0.13,9.82,5065.57,5075.39,HIGH,jane.doe.@yahoo.com
+ELX-1262,Electronics Plus,East,iPad Air,Alice Brown,2023-01-30,36,504.02,0.1,15.6,"$16,330.25",16345.85,Medium,alice.browngmail.com
+ELX-1263,  GadgetHub  ,South,Fitbit Charge 6,Jane Doe,2023-06-19,42,108.7,0.11,12.42,4063.21,4075.63,HIGH,jane.doe@business.org
+ELX-1264,Smart Store,South,SAMSUNG GALAXY S24,Bob Wilson,2023-07-13,44,731.89,,6.46,31881.13,31887.59,medium,BOB.WILSON@COMPANY.COM
+ELX-1265,Smart Store,Central,Sony WH-1000XM5,Alice Brown,2023-04-17,22,374.28,0.23,9.24,6340.3,6349.54,Low,ALICE.BROWN@YAHOO.COM
+ELX-1266,Electronics Plus,North,Gaming Headset,Jane Doe,2023-12-23,39,848.97,0.1,9.79,29798.85,29808.64,Low,jane.doebusiness.org
+ELX-1267,  Digital World  ,East,Type-C Cable,Alice Brown,2023-10-01,42,440.72,0.07,15.26,17214.52,17229.78,HIGH,alice.brown.@gmail.com
+ELX-1268,GadgetHub,West,Dell XPS 13,Alice Brown,2023-06-13,14,454.29,0.1,16.25,5724.05,5740.3,Medium,ALICE.BROWN@COMPANY.COM
+ELX-1269,Electronics Plus,South,iPhone 15,Bob Wilson,2023-10-11,38,701.28,0.1,8.05,23983.78,23991.83,low,bob.wilson@company.com
+ELX-1270,Digital World,South,usb-c cable,Mike Davis,2023-05-06,32,667.51,0.24,11.75,16233.84,16245.59,HIGH,
+ELX-1271,GadgetHub,West,Bluetooth Speaker,Jane Doe,2023-06-30,11,180.85,0.14,8.68,1710.84,1719.52,HIGH,jane.doe@business.org
+ELX-1272,Smart Store,North,Laptop Stand,John Smith,2023-02-08,43,72.49,0.0,7.75,3117.07,3124.82,low,john.smith@gmail.com
+ELX-1273,Electronics Plus,North,iPad Air,John Smith,2023-04-22,-33,555.37,0.02,17.75,17960.67,17978.42,high,john.smith@yahoo.com
+ELX-1274,Smart Store,West,Gaming Headset,John Smith,2023-01-04,35,668.7,0.0,15.59,23404.5,23420.09,medium,john.smith.@yahoo.com
+ELX-1275,Digital World,Central,iPhone Case,John Smith,2023-09-15,45,813.73,0.2,23.2,29294.28,29317.48,medium,john.smithgmail.com
+ELX-1276,TechMart,North,Laptop Stand,Jane Doe,2023-05-04,13,749.44,0.06,12.09,9158.16,9170.25,Medium,jane.doegmail.com
+ELX-1277,GadgetHub,North,Wireless Charger,Alice Brown,2023-08-24,37,303.2,0.17,11.0,,9322.27,low,
+ELX-1278,  TechMart  ,North,MacBook Pro,Alice Brown,2023-07-14,25,669.95,0.01,5.19,16581.26,16586.45,high,alice.brown.@yahoo.com
+ELX-1279,Electronics Plus,North,Gaming Headset,Alice Brown,2023-11-27,22,685.54,0.21,6.91,11914.69,11921.6,HIGH,alice.brownyahoo.com
+ELX-1280,Smart Store,North,Apple Watch Series 9,Jane Doe,2023-12-21,37,578.47,0.01,6.49,,21195.85,,jane.doe@company.com
+ELX-1281,Digital World,Central,Samsung Galaxy S24,Jane Doe,2023-06-11,2,1154.34,0.15,20.05,1962.38,1982.43,High,jane.doe.@business.org
+ELX-1282,GadgetHub,North,iPhone Case,Jane Doe,2023-10-16,16,686.53,0.21,18.54,8677.74,8696.28,high,jane.doe.@yahoo.com
+ELX-1283,Smart Store,East,USB-C Cable,Jane Doe,2023-12-19,47,107.94,0.19,11.92,4109.28,4121.2,High,JANE.DOE@YAHOO.COM
+ELX-1284,TechMart,West,Apple Watch Series 9,John Smith,2023-06-24,39,926.27,0.24,12.93,"$27,454.64",27467.57,HIGH,
+ELX-1285,Digital World,North,Fitbit Charge 6,Alice Brown,2023-09-09,15,436.64,0.24,13.64,4977.7,4991.34,Medium,alice.brown.@yahoo.com
+ELX-1286,Smart Store,West,MacBook Pro,Mike Davis,2023-06-01,16,860.03,0.02,8.08,13485.27,13493.35,HIGH,mike.davisyahoo.com
+ELX-1287,Electronics Plus,West,Screen Protector,Bob Wilson,2023-02-24,6,21.16,0.08,12.2,116.8,129.0,High,bob.wilson.@company.com
+ELX-1288,Digital World,North,iPad Air,John Smith,2023-04-06,28,546.88,0.14,13.16,13168.87,13182.03,medium,john.smith.@business.org
+ELX-1289,TechMart,North,Wireless Charger,Mike Davis,2023-02-17,39,723.68,0.08,12.7,25965.64,25978.34,medium,
+ELX-1290,  Digital World  ,West,USB-C Cable,John Smith,2023-10-14,16,692.77,0.04,12.61,10640.95,10653.56,high,john.smith.@company.com
+ELX-1291,Electronics Plus,East,iPhone Case,Bob Wilson,2023-09-10,10,89.97,0.11,13.42,800.73,814.15,,bob.wilsonbusiness.org
+ELX-1292,GadgetHub,North,Wireless Charger,Bob Wilson,2023-05-07,47,755.66,0.15,8.91,30188.62,30197.53,Medium,BOB.WILSON@GMAIL.COM
+ELX-1293,TechMart,South,iPhone Case,John Smith,2023-07-22,22,1012.31,0.09,22.24,20266.45,20288.69,medium,john.smithbusiness.org
+ELX-1294,GadgetHub,East,Power Bank,Mike Davis,2023-03-11,20,394.99,0.24,9.02,6003.85,6012.87,low,
+ELX-1295,Digital World,South,USB-C Cable,Bob Wilson,2023-05-30,48,838.52,0.12,16.52,35419.08,35435.6,Medium,bob.wilsoncompany.com
+ELX-1296,Electronics Plus,East,USB-C Cable,Bob Wilson,2023-07-21,24,149.96,0.14,16.84,3095.17,3112.01,High,BOB.WILSON@COMPANY.COM
+ELX-1297,Smart Store,South,Phone Holder,John Smith,2023-08-25,46,263.43,0.2,21.63,9694.22,9715.85,High,john.smith@company.com
+ELX-1298,TechMart,West,Gaming Headset,Jane Doe,2023-11-21,20,301.8,0.16,19.3,5070.24,5089.54,,jane.doe.@yahoo.com
+ELX-1299,GadgetHub,North,Bluetooth Speaker,Mike Davis,2023-09-03,38,489.95,0.13,23.41,,16221.16,Medium,
+ELX-1300,GadgetHub,Central,Samsung Galaxy S24,Bob Wilson,2023-12-26,35,718.68,0.23,7.19,"$19,368.43",19375.62,HIGH,bob.wilson@gmail.com
+ELX-1301,Electronics Plus,East,AIRPODS PRO,Mike Davis,2023-01-23,37,1180.58,0.17,12.99,36255.61,36268.6,Low,
+ELX-1302,Digital World,West,Dell XPS 13,John Smith,2023-02-20,17,278.07,0.19,16.16,3829.02,3845.18,Medium,JOHN.SMITH@BUSINESS.ORG
+ELX-1303,Smart Store,SOUTH,Bluetooth Speaker,Bob Wilson,2023-07-20,30,930.23,0.15,15.01,23720.87,23735.88,high,bob.wilson.@company.com
+ELX-1304,Digital World,North,Gaming Headset,John Smith,2023-06-01,27,1105.85,0.02,21.63,29260.79,29282.42,medium,JOHN.SMITH@BUSINESS.ORG
+ELX-1305,Electronics Plus,East,iPhone Case,Bob Wilson,2023-08-22,14,632.52,0.09,6.95,"$8,058.30",8065.25,medium,bob.wilson.@gmail.com
+ELX-1306,GadgetHub,East,MacBook Pro,Bob Wilson,2023-01-23,46,151.38,0.21,17.96,"$5,501.15",5519.11,HIGH,bob.wilson.@gmail.com
+ELX-1307,  Electronics Plus  ,South,Laptop Stand,Jane Doe,2023-10-10,11,407.22,0.11,14.24,"$3,986.68",4000.92,,jane.doegmail.com
+ELX-1308,GadgetHub,South,AirPods Pro,Alice Brown,2023-07-22,2,888.81,0.22,13.99,1386.54,1400.53,medium,
+ELX-1309,GadgetHub,West,iPhone 15,Jane Doe,2023-04-16,18,906.51,0.2,6.25,13053.74,13059.99,high,jane.doe@company.com
+ELX-1310,TechMart,central,AirPods Pro,Bob Wilson,2023-06-16,13,557.2,0.07,22.25,6736.55,6758.8,,bob.wilson.@yahoo.com
+ELX-1311,Smart Store,East,USB-C Cable,Mike Davis,2023-07-20,38,150.37,0.09,14.16,5199.79,5213.95,HIGH,mike.daviscompany.com
+ELX-1312,Electronics Plus,East,Apple MacBook Pro,Jane Doe,2023-06-10,8,297.71,0.03,12.47,,2322.7,low,JANE.DOE@BUSINESS.ORG
+ELX-1313,  Electronics Plus  ,Central,USB-C Cable,Alice Brown,2023-11-02,9,696.15,0.11,14.73,5576.16,5590.89,Low,alice.brown@yahoo.com
+ELX-1314,Smart Store,South,Phone Holder,Jane Doe,2023-09-08,19,181.25,,14.02,3168.25,3182.27,HIGH,JANE.DOE@BUSINESS.ORG
+ELX-1315,  TechMart  ,East,iPhone 15,Alice Brown,2023-03-11,13,981.03,0.24,15.11,9692.58,9707.69,HIGH,ALICE.BROWN@BUSINESS.ORG
+ELX-1316,GadgetHub,WEST,Gaming Headset,Alice Brown,2023-12-30,29,594.11,0.02,5.62,16884.61,16890.23,Low,-
+ELX-1317,Electronics Plus,East,Samsung Galaxy S24,Bob Wilson,2023-04-26,35,357.07,0.2,16.31,9997.96,10014.27,low,bob.wilson.@yahoo.com
+ELX-1318,GadgetHub,CENTRAL,Laptop Stand,John Smith,2023-10-21,8,332.45,0.14,24.82,2287.26,2312.08,Medium,JOHN.SMITH@COMPANY.COM
+ELX-1319,Smart Store,North,Bluetooth Speaker,Mike Davis,2023-04-22,28,136.36,0.21,20.03,,3036.31,low,Missing
+ELX-1320,Digital World,North,Bluetooth Speaker,Bob Wilson,2023-06-28,6,535.3,0.25,20.51,"$2,408.85",2429.36,high,bob.wilson@company.com
+ELX-1321,Electronics Plus,South,Wireless Charger,Mike Davis,2023-11-20,28,211.69,0.03,9.13,"$5,749.50",5758.63,Medium,MIKE.DAVIS@YAHOO.COM
+ELX-1322,Electronics Plus,North,Wireless Charger,Mike Davis,2023-05-24,39,653.44,0.08,19.08,23445.43,23464.51,Low,Missing
+ELX-1323,Digital World,Central,Fitbit Charge 6,Mike Davis,2023-12-14,7,175.67,0.19,13.23,996.05,1009.28,Medium,MIKE.DAVIS@COMPANY.COM
+ELX-1324,TechMart,East,iPad Air,Jane Doe,2023-05-08,10,858.0,0.21,20.23,6778.2,6798.43,low,JANE.DOE@BUSINESS.ORG
+ELX-1325,GadgetHub,WEST,iPad Air,Mike Davis,2023-11-20,18,758.96,0.09,6.51,12431.76,12438.27,high,mike.davisgmail.com
+ELX-1326,TechMart,West,Laptop Stand,Bob Wilson,2023-12-22,24,553.81,0.12,16.64,11696.47,11713.11,HIGH,bob.wilson.@yahoo.com
+ELX-1327,TechMart,West,Wireless-Charger,John Smith,2023-10-01,26,273.13,0.11,9.24,6320.23,6329.47,medium,JOHN.SMITH@YAHOO.COM
+ELX-1328,Digital World,East,iPhone Case,Bob Wilson,2023-10-08,-37,169.75,0.21,20.77,Missing,4982.56,high,bob.wilsonyahoo.com
+ELX-1329,TechMart,North,Dell XPS 13,Alice Brown,2023-01-09,8,1116.38,0.04,14.13,8573.8,8587.93,High,alice.brown@company.com
+ELX-1330,GadgetHub,SOUTH,iPad Air,Bob Wilson,2023-03-23,18,125.61,0.09,6.65,2057.49,2064.14,,bob.wilson.@gmail.com
+ELX-1331,Electronics Plus,North,USB-C Cable,Bob Wilson,2023-12-25,49,292.46,0.16,19.07,12037.65,12056.72,High,bob.wilson.@yahoo.com
+ELX-1332,TechMart,South,Gaming Headset,John Smith,2023-03-09,38,283.04,0.17,5.19,8927.08,8932.27,Low,
+ELX-1333,Digital World,North,PowerBank,Jane Doe,2023-09-02,5,286.3,0.02,21.12,1402.87,1423.99,HIGH,jane.doe@business.org
+ELX-1334,TechMart,East,Wireless Charger,Bob Wilson,2023-03-12,25,931.55,0.19,7.66,18863.89,18871.55,medium,bob.wilsonyahoo.com
+ELX-1335,Electronics Plus,North,Laptop Stand,Mike Davis,2023-01-05,40,785.27,0.11,19.45,27955.61,27975.06,HIGH,mike.davis.@yahoo.com
+ELX-1336,Electronics Plus,West,Bluetooth Speaker,Jane Doe,2023-02-14,7,180.92,0.03,19.6,1228.45,1248.05,Low,jane.doe@company.com
+ELX-1337,Digital World,West,Screen Protector,Jane Doe,2023-05-07,18,778.88,0.06,17.02,13178.65,13195.67,Medium,jane.doeyahoo.com
+ELX-1338,Smart Store,East,iPhone 15,Bob Wilson,2023-04-16,34,734.21,0.05,12.84,23714.98,23727.82,Low,
+ELX-1339,TechMart,South,Gaming Headset,Alice Brown,2023-02-27,16,607.01,0.15,15.57,8255.34,8270.91,High,alice.brownyahoo.com
+ELX-1340,TechMart,EAST,Screen Protector,Jane Doe,2023-07-18,37,513.72,0.14,8.46,16346.57,16355.03,High,jane.doe@company.com
+ELX-1341,  GadgetHub  ,North,iPhone 15,Mike Davis,2023-02-04,1,325.69,0.01,6.21,322.43,328.64,High,mike.davisbusiness.org
+ELX-1342,GadgetHub,Central,iPhone Case,Mike Davis,2023-08-01,28,846.65,0.02,15.73,23232.08,23247.81,High,mike.davis@company.com
+ELX-1343,Smart Store,South,Fitbit Charge 6,John Smith,2023-06-08,6,620.9,0.05,21.16,3539.13,3560.29,HIGH,JOHN.SMITH@BUSINESS.ORG
+ELX-1344,Smart Store,East,USB-C Cable,Mike Davis,2023-11-21,49,1003.91,0.17,6.32,40829.02,40835.34,HIGH,mike.davisbusiness.org
+ELX-1345,GadgetHub,SOUTH,Samsung Galaxy S24,Jane Doe,2023-02-14,28,152.44,0.15,6.1,3628.07,3634.17,medium,-
+ELX-1346,Electronics Plus,North,iPhone 15,Jane Doe,2023-12-26,1,209.14,0.24,15.46,,174.41,Low,jane.doe@yahoo.com
+ELX-1347,Digital World,South,Wireless Charger,Jane Doe,2023-05-18,47,1065.4,0.19,5.59,40559.78,40565.37,medium,jane.doebusiness.org
+ELX-1348,GadgetHub,East,Laptop Stand,John Smith,2023-05-15,46,1170.43,0.16,14.92,45225.42,45240.34,high,john.smithcompany.com
+ELX-1349,Smart Store,East,Samsung Galaxy S24,Alice Brown,2023-10-18,11,450.71,0.06,7.06,4660.34,4667.4,HIGH,alice.brown.@business.org
+ELX-1350,Smart Store,NORTH,Apple Watch Series 9,Mike Davis,2023-01-02,3,1032.55,0.0,5.92,3097.65,3103.57,HIGH,Missing
+ELX-1351,Digital World,West,iPad Air,Jane Doe,2023-01-19,36,966.69,0.18,18.11,28536.69,28554.8,HIGH,jane.doe.@gmail.com
+ELX-1352,Electronics Plus,East,Apple Watch Series 9,Alice Brown,2023-06-13,18,993.81,0.14,7.39,15384.18,15391.57,medium,ALICE.BROWN@BUSINESS.ORG
+ELX-1353,TechMart,South,Apple Watch Series 9,Mike Davis,2023-01-24,26,96.68,0.12,10.65,2212.04,2222.69,,mike.davisgmail.com
+ELX-1354,Digital World,East,MacBook Pro,Mike Davis,2023-08-22,1,452.17,0.07,20.69,420.52,441.21,Low,mike.davisyahoo.com
+ELX-1355,Smart Store,South,Bluetooth Speaker,Bob Wilson,2023-10-30,32,1197.38,0.19,19.65,31036.09,31055.74,HIGH,bob.wilson.@company.com
+ELX-1356,  Smart Store  ,South,iPad Air,John Smith,2023-07-29,2,291.1,0.09,21.79,529.8,551.59,High,JOHN.SMITH@COMPANY.COM
+ELX-1357,TechMart,East,iPhone 15,Alice Brown,2023-06-07,7,258.16,0.25,13.4,1355.34,1368.74,low,ALICE.BROWN@GMAIL.COM
+ELX-1358,TechMart,South,Fitbit Charge 6,John Smith,2023-01-23,15,1078.29,0.13,19.02,14071.68,14090.7,HIGH,john.smith@business.org
+ELX-1359,Digital World,West,MacBook Pro,Mike Davis,2023-02-18,33,173.21,0.2,6.5,4572.74,4579.24,Low,mike.davisyahoo.com
+ELX-1360,Smart Store,North,Power Bank,Jane Doe,2023-05-02,19,324.27,0.08,21.02,"$5,668.24",5689.26,High,jane.doebusiness.org
+ELX-1361,Digital World,East,Bluetooth Speaker,Bob Wilson,2023-04-30,5,1133.11,,20.4,5495.58,5515.98,high,bob.wilsongmail.com
+ELX-1362,TechMart,South,Dell XPS 13,Jane Doe,2023-08-19,30,387.13,0.03,12.17,11265.48,11277.65,High,
+ELX-1363,Electronics Plus,West,iPhone Case,Alice Brown,2023-05-16,8,122.15,0.2,11.08,781.76,792.84,Medium,
+ELX-1364,Smart Store,North,Sony WH-1000XM5,Bob Wilson,2023-03-17,6,857.72,0.24,12.92,3911.2,3924.12,medium,bob.wilsonbusiness.org
+ELX-1365,TechMart,east,Fitbit Charge 6,Jane Doe,2023-01-16,26,1027.7,0.14,16.0,22979.37,22995.37,Low,jane.doe.@company.com
+ELX-1366,TechMart,WEST,Dell XPS 13,Jane Doe,2023-03-04,1,88.08,0.2,9.45,70.46,79.91,HIGH,
+ELX-1367,Electronics Plus,West,Wireless Charger,John Smith,2023-10-26,38,321.7,0.2,5.44,"$9,779.68",9785.12,,
+ELX-1368,  TechMart  ,South,Bluetooth Speaker,Jane Doe,2023-02-17,22,160.2,0.24,6.01,2678.54,2684.55,Medium,
+ELX-1369,Smart Store,West,USBC Cable,Alice Brown,2023-01-16,25,824.61,0.04,9.29,19790.64,19799.93,medium,alice.brown@business.org
+ELX-1370,  Electronics Plus  ,East,Fitbit Charge 6,Alice Brown,2023-03-18,3,742.72,0.15,17.95,,1911.89,HIGH,alice.brown@company.com
+ELX-1371,GadgetHub,West,Phone Holder,Alice Brown,2023-02-01,6,346.53,0.03,8.99,,2025.79,high,alice.brown@business.org
+ELX-1372,Smart Store,South,Phone Holder,John Smith,2023-07-15,46,440.55,0.14,14.69,"$17,428.16",17442.85,Low,john.smith.@yahoo.com
+ELX-1373,Smart Store,Central,Screen Protector,Alice Brown,2023-05-19,12,45.88,0.15,5.59,467.98,473.57,HIGH,ALICE.BROWN@YAHOO.COM
+ELX-1374,Digital World,North,Gaming Headset,Mike Davis,2023-07-03,50,707.03,0.06,8.19,33230.41,33238.6,low,
+ELX-1375,Electronics Plus,South,Fitbit Charge 6,Mike Davis,2023-01-29,49,1195.72,0.05,21.93,55660.77,55682.7,Medium,Missing
+ELX-1376,GadgetHub,East,AirPods Pro,Jane Doe,2023-05-02,38,391.84,0.18,12.18,12209.73,12221.91,,jane.doe.@gmail.com
+ELX-1377,  Smart Store  ,North,Wireless Charger,Mike Davis,2023-10-16,10,682.28,0.05,24.76,6481.66,6506.42,High,mike.davis.@business.org
+ELX-1378,GadgetHub,Central,iPhone-Case,Jane Doe,2023-09-09,3,121.95,0.06,9.38,343.9,353.28,Medium,JANE.DOE@GMAIL.COM
+ELX-1379,Smart Store,West,iPhone 15,Bob Wilson,2023-11-11,13,970.64,0.09,8.55,11482.67,11491.22,HIGH,BOB.WILSON@BUSINESS.ORG
+ELX-1380,Digital World,North,iPhone 15,Jane Doe,2023-10-28,46,1101.91,0.19,21.93,41057.17,41079.1,Low,
+ELX-1381,Digital World,North,Wireless Charger,Alice Brown,2023-10-28,7,413.82,0.08,24.52,2665.0,2689.52,high,alice.brown@company.com
+ELX-1382,  GadgetHub  ,West,Screen-Protector,Jane Doe,2023-12-29,36,836.87,0.23,20.74,23198.04,23218.78,,Missing
+ELX-1383,  Electronics Plus  ,central,AirPods Pro,Alice Brown,2023-06-07,47,830.87,0.03,19.58,37879.36,37898.94,Medium,alice.browngmail.com
+ELX-1384,  Smart Store  ,West,Samsung Galaxy S24,Jane Doe,2023-05-11,21,1106.43,0.24,9.42,17658.62,17668.04,Low,jane.doe.@gmail.com
+ELX-1385,Smart Store,North,Gaming Headset,Jane Doe,2023-06-19,48,107.2,0.09,11.39,4682.5,4693.89,Medium,jane.doecompany.com
+ELX-1386,  TechMart  ,East,Bluetooth Speaker,John Smith,2023-05-16,14,310.71,0.02,10.13,4262.94,4273.07,high,
+ELX-1387,TechMart,North,Samsung Galaxy S24,Alice Brown,2023-08-13,47,512.29,0.04,13.28,23114.52,23127.8,High,alice.brown.@business.org
+ELX-1388,GadgetHub,East,Phone Holder,Alice Brown,2023-02-21,31,949.65,0.14,20.16,25317.67,25337.83,High,alice.brown@gmail.com
+ELX-1389,  Electronics Plus  ,South,Bluetooth Speaker,John Smith,2023-01-18,19,38.79,0.07,7.09,685.42,692.51,medium,
+ELX-1390,  Digital World  ,South,USB C Cable,Jane Doe,2023-02-08,36,1131.07,0.24,11.76,30946.08,30957.84,medium,JANE.DOE@GMAIL.COM
+ELX-1391,Smart Store,WEST,iPhone 15,Alice Brown,2023-12-01,11,734.67,0.11,6.07,7192.42,7198.49,High,alice.brown.@company.com
+ELX-1392,Digital World,South,Sony WH-1000XM5,Alice Brown,2023-12-23,36,870.62,0.18,10.31,25700.7,25711.01,High,alice.brown.@business.org
+ELX-1393,  Digital World  ,East,Apple Watch Series 9,John Smith,2023-01-26,26,692.55,Missing,8.07,14224.98,14233.05,medium,john.smith@company.com
+ELX-1394,    Digital World    ,North,Power Bank,John Smith,2023-05-31,43,755.73,0.12,6.94,28596.82,28603.76,High,john.smithcompany.com
+ELX-1395,Electronics Plus,South,iPhone Case,John Smith,2023-08-31,8,380.4,0.1,14.78,2738.88,2753.66,Low,john.smith.@company.com
+ELX-1396,Digital World,North,Phone Holder,Alice Brown,2023-04-05,24,1064.31,0.09,13.92,23244.53,23258.45,medium,alice.brown@business.org
+ELX-1397,Digital World,West,Bluetooth Speaker,Bob Wilson,2023-04-26,18,683.63,0.04,18.93,11813.13,11832.06,Low,bob.wilson.@business.org
+ELX-1398,TechMart,North,Wireless Charger,Mike Davis,2023-07-31,49,713.83,0.14,21.82,30080.8,30102.62,high,mike.davis@company.com
+ELX-1399,Smart Store,west,Phone Holder,Alice Brown,2023-10-21,16,579.37,0.02,23.06,9084.52,9107.58,HIGH,alice.brown.@gmail.com
+ELX-1400,TechMart,Central,Laptop Stand,Mike Davis,2023-12-13,40,189.73,0.24,13.98,5767.79,5781.77,,MIKE.DAVIS@GMAIL.COM
+ELX-1401,Electronics Plus,South,Sony WH-1000XM5,Jane Doe,2023-01-22,28,107.87,0.17,9.04,2506.9,2515.94,medium,jane.doebusiness.org
+ELX-1402,Electronics Plus,Central,Fitbit Charge 6,Bob Wilson,2023-02-04,6,474.9,0.1,11.52,2564.46,2575.98,low,bob.wilson@yahoo.com
+ELX-1403,Digital World,Central,Bluetooth Speaker,John Smith,2023-12-25,40,711.28,0.2,7.25,22760.96,22768.21,HIGH,john.smithgmail.com
+ELX-1404,  Electronics Plus  ,South,Dell XPS 13,John Smith,2023-10-16,50,134.67,0.07,15.71,6262.15,6277.86,high,Missing
+ELX-1405,Digital World,West,Fitbit Charge 6,Alice Brown,2023-12-02,32,692.85,0.12,8.44,19510.66,19519.1,medium,alice.brown.@company.com
+ELX-1406,GadgetHub,South,usb-c cable,John Smith,2023-07-22,22,833.26,0.01,14.5,18148.4,18162.9,,JOHN.SMITH@BUSINESS.ORG
+ELX-1407,  Digital World  ,East,iPhone 15,Bob Wilson,2023-06-05,-20,347.21,0.12,18.92,6110.9,6129.82,High,BOB.WILSON@YAHOO.COM
+ELX-1408,TechMart,South,iPad Air,Bob Wilson,2023-08-15,50,993.6,0.07,13.34,46202.4,46215.74,High,bob.wilson@business.org
+ELX-1409,TechMart,South,Bluetooth Speaker,Jane Doe,2023-07-28,48,589.09,0.13,12.48,24600.4,24612.88,high,jane.doe.@gmail.com
+ELX-1410,TechMart,Central,AirPods Pro,John Smith,2023-06-09,46,615.55,0.03,22.03,27465.84,27487.87,,john.smith@company.com
+ELX-1411,Smart Store,north,AirPods Pro,Jane Doe,2023-04-13,4,310.65,0.11,23.36,,1129.27,medium,JANE.DOE@YAHOO.COM
+ELX-1412,Electronics Plus,East,Wireless Charger,Alice Brown,2023-09-16,26,767.96,0.03,5.61,19367.95,19373.56,High,
+ELX-1413,Digital World,West,Bluetooth Speaker,Jane Doe,2023-08-31,38,668.33,0.09,21.75,23110.85,23132.6,,jane.doe.@company.com
+ELX-1414,  Digital World  ,North,iPhone-Case,John Smith,2023-07-17,4,208.05,0.14,24.3,715.69,739.99,,
+ELX-1415,Electronics Plus,South,Sony WH-1000XM5,Bob Wilson,2023-11-30,27,623.24,0.22,24.34,13125.43,13149.77,low,bob.wilson.@yahoo.com
+ELX-1416,TechMart,West,iPad Air,Jane Doe,2023-11-04,1,280.17,0.15,23.86,238.14,262.0,,
+ELX-1417,Digital World,West,Type-C Cable,Bob Wilson,2023-08-24,17,273.58,0.08,15.41,4278.79,4294.2,High,BOB.WILSON@YAHOO.COM
+ELX-1418,  Smart Store  ,West,Dell XPS 13,John Smith,2023-09-19,43,1160.29,0.21,16.23,39415.05,39431.28,,john.smith.@company.com
+ELX-1419,Smart Store,Central,iPhone Case,Bob Wilson,2023-12-17,7,585.86,0.08,10.53,3772.94,3783.47,High,bob.wilson@yahoo.com
+ELX-1420,Digital World,east,Fitbit Charge 6,Bob Wilson,2023-04-07,10,627.99,,6.14,5903.11,5909.25,low,BOB.WILSON@COMPANY.COM
+ELX-1421,Smart Store,West,Screen Protector,Jane Doe,2023-01-14,42,604.39,0.07,23.14,23607.47,23630.61,HIGH,jane.doebusiness.org
+ELX-1422,GadgetHub,West,Samsung Galaxy S24,Mike Davis,2023-12-29,37,981.98,0.09,19.27,33063.27,33082.54,,mike.davis.@business.org
+ELX-1423,Smart Store,West,Wireless Charger,Mike Davis,2023-06-03,11,1011.16,0.22,8.62,8675.75,8684.37,High,mike.davis.@yahoo.com
+ELX-1424,TechMart,West,iPad Air,Bob Wilson,2023-10-14,49,1096.46,0.24,22.99,40832.17,40855.16,,BOB.WILSON@GMAIL.COM
+ELX-1425,  TechMart  ,South,Wireless Charger,Jane Doe,2023-06-07,27,948.89,0.08,10.21,23570.43,23580.64,,jane.doebusiness.org
+ELX-1426,Digital World,West,Dell XPS 13,Alice Brown,2023-01-28,41,706.54,0.24,6.42,22015.79,22022.21,High,alice.brown.@company.com
+ELX-1427,Electronics Plus,Central,Dell XPS 13,Alice Brown,2023-09-29,20,504.53,0.22,8.02,7870.67,7878.69,,
+ELX-1428,Electronics Plus,East,Power Bank,Mike Davis,2023-08-23,10,389.91,0.18,20.58,3197.26,3217.84,,
+ELX-1429,GadgetHub,East,AirPods Pro,Bob Wilson,2023-11-21,4,20.59,0.07,20.22,76.59,96.81,HIGH,bob.wilson.@company.com
+ELX-1430,Electronics Plus,Central,Apple AirPods Pro,Alice Brown,2023-02-15,9,743.16,0.16,13.07,5618.29,5631.36,low,ALICE.BROWN@BUSINESS.ORG
+ELX-1431,GadgetHub,West,iPhone 15,John Smith,2023-10-01,13,880.83,0.24,22.84,8702.6,8725.44,low,john.smith@company.com
+ELX-1432,  Smart Store  ,South,iPhone 15,John Smith,2023-11-17,47,309.86,0.17,11.89,12087.64,12099.53,medium,john.smithyahoo.com
+ELX-1433,Electronics Plus,North,USB-C Cable,Mike Davis,2023-10-29,20,212.92,0.21,10.96,"$3,364.14",3375.1,Medium,mike.davis.@gmail.com
+ELX-1434,  Digital World  ,West,Laptop Stand,Mike Davis,2023-09-26,22,528.89,0.17,7.68,9657.53,9665.21,low,mike.davis@yahoo.com
+ELX-1435,GadgetHub,East,Sony WH-1000XM5,Jane Doe,2023-07-26,2,285.68,0.18,7.62,468.52,476.14,HIGH,JANE.DOE@COMPANY.COM
+ELX-1436,TechMart,central,Laptop Stand,Jane Doe,2023-03-05,24,857.67,0.2,12.5,16467.26,16479.76,high,JANE.DOE@BUSINESS.ORG
+ELX-1437,  Digital World  ,Central,Samsung Galaxy S24,Mike Davis,2023-01-25,43,143.11,0.21,5.96,4861.45,4867.41,Low,MIKE.DAVIS@BUSINESS.ORG
+ELX-1438,TechMart,West,Bluetooth Speaker,Alice Brown,2023-03-05,36,314.49,0.18,9.11,9283.74,9292.85,High,ALICE.BROWN@COMPANY.COM
+ELX-1439,TechMart,East,Power Bank,John Smith,2023-12-06,34,334.92,0.15,7.74,,9686.93,medium,
+ELX-1440,TechMart,Central,Dell XPS 13,Bob Wilson,2023-02-28,7,604.82,0.15,20.56,3598.68,3619.24,HIGH,bob.wilson.@company.com
+ELX-1441,Smart Store,South,Wireless Charger,Alice Brown,2023-06-01,11,61.7,0.12,9.15,597.26,606.41,Medium,alice.brown.@company.com
+ELX-1442,GadgetHub,East,Apple Watch Series 9,John Smith,2023-01-07,43,120.47,0.03,16.48,5024.8,5041.28,Medium,john.smithbusiness.org
+ELX-1443,  GadgetHub  ,South,MacBook Pro,Mike Davis,2023-02-08,47,872.44,0.23,17.89,31573.6,31591.49,medium,
+ELX-1444,GadgetHub,East,Fitbit Charge 6,Alice Brown,2023-01-26,7,978.62,-,22.04,5343.27,5365.31,,
+ELX-1445,Digital World,East,Power Bank,John Smith,2023-02-18,49,1070.0,0.0,7.77,52430.0,52437.77,,john.smith@business.org
+ELX-1446,  Electronics Plus  ,East,Wireless Charger,Alice Brown,2023-11-15,18,1055.99,0.02,21.3,18627.66,18648.96,Medium,
+ELX-1447,Electronics Plus,North,USB-C Cable,Alice Brown,2023-08-22,18,1005.31,0.17,14.56,15019.33,15033.89,Low,alice.browngmail.com
+ELX-1448,GadgetHub,South,Dell XPS 13,Jane Doe,2023-12-23,47,84.5,0.24,8.19,3018.34,3026.53,Medium,jane.doe.@company.com
+ELX-1449,GadgetHub,Central,Gaming Headset,Mike Davis,2023-12-14,29,229.79,0.09,12.17,6064.16,6076.33,Medium,mike.davis.@company.com
+ELX-1450,TechMart,South,Gaming Headset,Alice Brown,2023-02-27,27,537.22,0.02,18.1,14214.84,14232.94,,
+ELX-1451,  TechMart  ,Central,Apple Watch Series 9,Bob Wilson,2023-09-23,34,830.57,0.15,13.66,24003.47,24017.13,,BOB.WILSON@YAHOO.COM
+ELX-1452,Electronics Plus,WEST,Wireless Charger,Alice Brown,2023-03-18,36,1072.09,0.15,5.23,32805.95,32811.18,medium,ALICE.BROWN@YAHOO.COM
+ELX-1453,Electronics Plus,Central,Gaming Headset,Alice Brown,2023-03-26,5,905.44,0.08,11.62,4165.02,4176.64,low,ALICE.BROWN@COMPANY.COM
+ELX-1454,Digital World,NORTH,Laptop Stand,Jane Doe,2023-10-09,42,463.69,0.2,6.58,15579.98,15586.56,,
+ELX-1455,GadgetHub,Central,Bluetooth Speaker,John Smith,2023-09-13,29,389.53,0.25,19.9,"$8,472.28",8492.18,,JOHN.SMITH@COMPANY.COM
+ELX-1456,TechMart,North,USB-C Cable,Alice Brown,2023-01-19,36,665.68,,20.84,18931.94,18952.78,medium,alice.brownbusiness.org
+ELX-1457,Smart Store,East,Laptop Stand,Mike Davis,2023-04-16,42,810.7,0.24,12.27,"$25,877.54",25889.81,high,MIKE.DAVIS@BUSINESS.ORG
+ELX-1458,TechMart,South,Bluetooth Speaker,Bob Wilson,2023-10-14,50,749.41,0.12,18.14,32974.04,32992.18,low,
+ELX-1459,  GadgetHub  ,North,Dell XPS 13,Jane Doe,2023-01-02,22,435.84,0.16,21.0,8054.32,8075.32,medium,
+ELX-1460,Smart Store,Central,Wireless Charger,John Smith,2023-01-24,11,598.52,0.21,19.85,5201.14,5220.99,low,john.smith@yahoo.com
+ELX-1461,GadgetHub,North,Fitbit Charge 6,Mike Davis,2023-04-11,13,158.08,0.21,9.31,1623.48,1632.79,,mike.daviscompany.com
+ELX-1462,Electronics Plus,East,Dell XPS 13,Alice Brown,2023-01-24,41,1007.4,0.15,20.44,35107.89,35128.33,Medium,Missing
+ELX-1463,GadgetHub,West,Laptop Stand,Jane Doe,2023-09-13,1,643.48,0.01,23.71,637.05,660.76,Medium,jane.doecompany.com
+ELX-1464,  Smart Store  ,West,Laptop Stand,Jane Doe,2023-12-21,38,220.78,0.2,7.07,6711.71,6718.78,HIGH,JANE.DOE@BUSINESS.ORG
+ELX-1465,Smart Store,Central,Screen Protector,Mike Davis,2023-07-16,27,1175.71,0.23,20.25,24443.01,24463.26,,mike.davis.@company.com
+ELX-1466,  Digital World  ,West,Screen Protector,Bob Wilson,2023-08-20,9,178.74,0.15,22.73,1367.36,1390.09,Low,bob.wilson@company.com
+ELX-1467,Smart Store,East,Phone Holder,Bob Wilson,2023-12-31,48,1123.58,0.16,9.02,45302.75,45311.77,High,BOB.WILSON@COMPANY.COM
+ELX-1468,Smart Store,East,Wireless Charger,Jane Doe,2023-12-30,42,1170.59,0.04,15.85,47198.19,47214.04,,jane.doebusiness.org
+ELX-1469,Digital World,North,Wireless Charger,Mike Davis,2023-09-03,38,691.21,,13.35,21800.76,21814.11,medium,-
+ELX-1470,Smart Store,East,Power Bank,John Smith,2023-09-25,7,44.95,0.04,18.41,302.06,320.47,High,
+ELX-1471,Electronics Plus,East,AirPods Pro,Bob Wilson,2023-12-16,17,188.52,0.02,20.69,3140.74,3161.43,Low,
+ELX-1472,Electronics Plus,Central,Samsung Galaxy S24,Bob Wilson,2023-08-20,7,745.09,0.17,16.24,4328.97,4345.21,High,BOB.WILSON@GMAIL.COM
+ELX-1473,Electronics Plus,Central,USB C Cable,Jane Doe,2023-09-19,45,355.85,0.17,23.53,13291.0,13314.53,low,
+ELX-1474,  GadgetHub  ,West,Screen Protector,Mike Davis,2023-01-28,1,896.25,0.05,22.38,851.44,873.82,high,Missing
+ELX-1475,GadgetHub,South,Wireless Charger,Mike Davis,2023-10-07,48,730.01,0.19,24.29,28382.79,28407.08,,
+ELX-1476,Digital World,West,AirPods Pro,John Smith,2023-04-06,12,886.07,0.03,5.81,10313.85,10319.66,HIGH,JOHN.SMITH@GMAIL.COM
+ELX-1477,Digital World,Central,Fitbit Charge 6,Jane Doe,2023-03-24,38,1017.53,0.0,14.33,38666.14,38680.47,medium,jane.doeyahoo.com
+ELX-1478,Electronics Plus,North,iPad Air,Bob Wilson,2023-11-02,4,931.79,0.16,21.86,3130.81,3152.67,High,BOB.WILSON@GMAIL.COM
+ELX-1479,Digital World,West,Phone Holder,Bob Wilson,2023-02-07,46,391.66,0.05,8.68,17115.54,17124.22,Low,bob.wilson@business.org
+ELX-1480,  TechMart  ,Central,AirPods Pro,Alice Brown,2023-10-06,35,493.05,0.09,22.67,15703.64,15726.31,Medium,ALICE.BROWN@COMPANY.COM
+ELX-1481,Digital World,East,Wireless Charger,Bob Wilson,2023-04-22,49,747.66,0.12,16.23,32239.1,32255.33,Low,bob.wilsonyahoo.com
+ELX-1482,  TechMart  ,North,Wireless Charger,Alice Brown,2023-05-04,42,742.24,0.16,24.18,26186.23,26210.41,low,alice.brown@business.org
+ELX-1483,Digital World,West,Dell XPS 13,Alice Brown,2023-05-12,35,872.91,0.01,15.34,30246.33,30261.67,,alice.brown@company.com
+ELX-1484,Digital World,Central,Laptop Stand,Alice Brown,2023-07-09,3,366.27,0.16,11.41,923.0,934.41,High,ALICE.BROWN@BUSINESS.ORG
+ELX-1485,TechMart,North,AirPods Pro,Mike Davis,2023-10-01,1,757.92,0.05,17.59,720.02,737.61,HIGH,mike.davisyahoo.com
+ELX-1486,Electronics Plus,West,Dell XPS 13,Jane Doe,2023-10-03,45,1056.19,0.19,13.7,38498.13,38511.83,low,jane.doe.@business.org
+ELX-1487,TechMart,South,Apple iPhone 15,Alice Brown,2023-06-19,3,118.71,0.01,20.88,352.57,373.45,HIGH,alice.brownyahoo.com
+ELX-1488,Smart Store,North,Apple Watch Series 9,Bob Wilson,2023-07-28,25,549.58,0.1,11.33,12365.55,12376.88,high,bob.wilsonbusiness.org
+ELX-1489,  GadgetHub  ,North,Phone Holder,John Smith,2023-11-25,47,747.74,0.19,16.71,28466.46,28483.17,Medium,john.smithcompany.com
+ELX-1490,TechMart,East,Laptop Stand,John Smith,2023-05-29,44,372.1,0.02,20.31,16044.95,16065.26,Medium,john.smith@company.com
+ELX-1491,GadgetHub,West,USB-C Cable,John Smith,2023-08-31,11,647.16,0.03,12.82,6905.2,6918.02,Medium,john.smithgmail.com
+ELX-1492,    Smart Store    ,East,iPad Air,Bob Wilson,2023-12-13,47,782.81,0.24,5.22,27961.97,27967.19,Low,
+ELX-1493,  Smart Store  ,South,Dell XPS 13,John Smith,2023-01-03,37,722.04,0.13,23.94,23242.47,23266.41,,john.smithbusiness.org
+ELX-1494,Digital World,South,Wireless Charger,Jane Doe,2023-07-31,42,1023.98,0.04,8.68,41286.87,41295.55,high,
+ELX-1495,Smart Store,East,Sony WH-1000XM5,John Smith,2023-04-03,43,962.6,0.21,22.03,32699.52,32721.55,medium,john.smithcompany.com
+ELX-1496,Smart Store,West,Phone Holder,John Smith,2023-05-29,43,94.82,0.02,19.51,3995.71,4015.22,,
+ELX-1497,GadgetHub,East,Wireless Charger,Jane Doe,2023-12-10,42,292.92,0.07,6.4,11441.46,11447.86,HIGH,jane.doe@gmail.com
+ELX-1498,Electronics Plus,East,Gaming Headset,Alice Brown,2023-06-18,40,796.42,0.17,8.05,26441.14,26449.19,Medium,ALICE.BROWN@BUSINESS.ORG
+ELX-1499,Smart Store,East,Screen Protector,Alice Brown,2023-03-28,1,386.16,0.2,19.24,,328.17,,
+ELX-1500,  GadgetHub  ,East,Wireless Charger,Jane Doe,2023-12-14,47,407.9,0.12,13.91,16870.74,16884.65,high,jane.doe.@business.org
+ELX-1501,  Digital World  ,West,Phone Holder,John Smith,2023-03-31,42,733.85,0.21,22.17,24349.14,24371.31,HIGH,JOHN.SMITH@GMAIL.COM
+ELX-1502,Electronics Plus,Central,Sony WH-1000XM5,Bob Wilson,2023-11-17,5,877.0,0.22,21.99,"$3,420.30",3442.29,,-
+ELX-1503,  TechMart  ,Central,USB-C Cable,Mike Davis,2023-04-19,3,668.64,0.14,24.97,1725.09,1750.06,low,mike.davis.@gmail.com
+ELX-1504,GadgetHub,South,Wireless Charger,Alice Brown,2023-04-25,50,713.68,0.21,7.68,28190.36,28198.04,,alice.brown@business.org
+ELX-1505,Smart Store,Central,MacBook Pro,Alice Brown,2023-07-06,33,27.55,0.06,24.28,854.6,878.88,High,-
+ELX-1506,Smart Store,South,Laptop Stand,Jane Doe,2023-08-17,11,227.29,0.24,18.19,1900.14,1918.33,high,jane.doe@business.org
+ELX-1507,Electronics Plus,West,Wireless Charger,John Smith,2023-04-23,49,592.86,0.02,12.39,28469.14,28481.53,,john.smithgmail.com
+ELX-1508,TechMart,South,Laptop Stand,Bob Wilson,2023-07-18,31,1102.71,0.22,5.8,26663.53,26669.33,Low,BOB.WILSON@COMPANY.COM
+ELX-1509,Digital World,North,Laptop Stand,Bob Wilson,2023-05-15,38,660.05,0.04,18.07,24078.62,24096.69,HIGH,bob.wilsongmail.com
+ELX-1510,Digital World,Central,MacBook Pro,Mike Davis,2023-05-09,25,1167.62,0.06,13.12,27439.07,27452.19,Medium,
+ELX-1511,Digital World,West,Gaming Headset,Mike Davis,2023-01-04,33,1060.21,0.11,9.6,31138.37,31147.97,High,mike.davisyahoo.com
+ELX-1512,  Smart Store  ,East,Sony WH-1000XM5,Jane Doe,2023-04-06,11,444.23,0.18,7.37,4006.95,4014.32,,jane.doebusiness.org
+ELX-1513,Electronics Plus,West,Screen Protector,John Smith,2023-09-04,44,582.4,0.05,8.22,-,24352.54,,john.smith@company.com
+ELX-1514,GadgetHub,North,Apple Watch Series 9,John Smith,2023-03-07,37,716.93,0.03,15.25,25730.62,25745.87,high,john.smith@company.com
+ELX-1515,Smart Store,SOUTH,Samsung Galaxy S24,Jane Doe,2023-05-13,12,627.22,0.1,24.38,6773.98,6798.36,high,
+ELX-1516,TechMart,East,macbook pro,Jane Doe,2023-08-18,39,1191.44,0.22,8.41,36243.6,36252.01,low,jane.doe.@company.com
+ELX-1517,  GadgetHub  ,Central,iPad Air,Mike Davis,2023-04-04,40,796.68,0.07,19.48,29636.5,29655.98,Medium,
+ELX-1518,Digital World,West,MacBook Pro,Jane Doe,2023-07-13,25,171.67,0.0,15.45,"$4,291.75",4307.2,High,jane.doe.@business.org
+ELX-1519,Smart Store,West,iPad Air,Mike Davis,2023-02-19,12,578.9,0.15,5.78,5904.78,5910.56,medium,MIKE.DAVIS@COMPANY.COM
+ELX-1520,Smart Store,Central,Dell XPS 13,John Smith,2023-09-04,43,169.44,0.15,21.55,6193.03,6214.58,High,john.smithgmail.com
+ELX-1521,  GadgetHub  ,Central,Power Bank,Bob Wilson,2023-01-23,45,642.83,0.06,21.05,,27212.76,medium,BOB.WILSON@YAHOO.COM
+ELX-1522,GadgetHub,East,Dell XPS 13,Alice Brown,2023-03-10,17,580.41,0.06,22.18,"$9,274.95",9297.13,low,alice.brown@company.com
+ELX-1523,Digital World,Central,Phone Holder,Alice Brown,2023-05-12,13,21.48,0.19,5.14,226.18,231.32,medium,alice.brown.@yahoo.com
+ELX-1524,Smart Store,NORTH,Laptop Stand,John Smith,2023-07-12,42,258.42,0.2,13.18,8682.91,8696.09,Low,john.smith.@company.com
+ELX-1525,TechMart,South,Power Bank,Mike Davis,2023-05-10,17,1028.15,0.11,12.31,15555.91,15568.22,HIGH,mike.daviscompany.com
+ELX-1526,Digital World,West,Sony WH-1000XM5,Alice Brown,2023-10-10,36,586.72,0.09,16.1,19220.95,19237.05,low,-
+ELX-1527,Digital World,East,Wireless-Charger,Alice Brown,2023-03-12,43,156.12,0.06,20.66,Missing,6331.03,high,alice.browncompany.com
+ELX-1528,Electronics Plus,North,Sony WH-1000XM5,Mike Davis,2023-07-25,22,964.01,0.15,18.69,18026.99,18045.68,Medium,mike.davisyahoo.com
+ELX-1529,TechMart,South,USB-C Cable,John Smith,2023-02-16,10,573.93,0.15,6.76,4878.4,4885.16,low,
+ELX-1530,Digital World,South,WIRELESS CHARGER,John Smith,2023-11-08,3,873.53,0.23,13.01,2017.85,2030.86,,john.smith@yahoo.com
+ELX-1531,Smart Store,East,Samsung Galaxy S24,Jane Doe,2023-11-24,32,535.18,0.05,18.14,"$16,269.47",16287.61,HIGH,JANE.DOE@YAHOO.COM
+ELX-1532,Smart Store,East,Sony WH-1000XM5,John Smith,2023-11-03,33,626.24,0.06,8.39,19425.96,19434.35,,john.smithcompany.com
+ELX-1533,TechMart,east,Apple Watch Series 9,John Smith,2023-03-22,6,1196.23,0.19,12.06,5813.68,5825.74,high,john.smith.@gmail.com
+ELX-1534,GadgetHub,West,Sony WH-1000XM5,Mike Davis,2023-01-08,48,848.79,0.23,15.99,31371.28,31387.27,Medium,MIKE.DAVIS@COMPANY.COM
+ELX-1535,Smart Store,Central,Wireless Charger,Bob Wilson,2023-05-22,15,733.54,0.05,23.59,"$10,452.94",10476.53,medium,
+ELX-1536,Smart Store,North,Fitbit Charge 6,Jane Doe,2023-07-28,33,141.16,0.02,10.89,4565.11,4576.0,HIGH,jane.doecompany.com
+ELX-1537,TechMart,Central,Fitbit Charge 6,Mike Davis,2023-10-22,17,837.62,0.24,16.26,10822.05,10838.31,HIGH,MIKE.DAVIS@COMPANY.COM
+ELX-1538,Electronics Plus,East,Bluetooth Speaker,Alice Brown,2023-10-28,2,586.13,0.06,12.65,1101.92,1114.57,Medium,-
+ELX-1539,Electronics Plus,South,Screen Protector,Alice Brown,2023-06-30,34,649.75,0.18,10.27,18115.03,18125.3,high,ALICE.BROWN@YAHOO.COM
+ELX-1540,Digital World,North,USB C Cable,Bob Wilson,2023-08-02,36,1118.7,0.12,12.07,35440.42,35452.49,low,bob.wilsonbusiness.org
+ELX-1541,Smart Store,East,AirPods Pro,Jane Doe,2023-09-13,48,251.6,0.18,22.45,9902.98,9925.43,,
+ELX-1542,Electronics Plus,South,Sony WH-1000XM5,Jane Doe,2023-11-13,23,199.85,0.03,23.4,4458.65,4482.05,Medium,jane.doe.@gmail.com
+ELX-1543,GadgetHub,Central,iPhone 15,Mike Davis,2023-01-22,31,454.87,0.08,22.96,12972.89,12995.85,Low,mike.davis.@yahoo.com
+ELX-1544,Smart Store,East,Gaming Headset,Jane Doe,2023-09-19,18,486490.0,0.19,7.56,7093.02,7100.58,,jane.doeyahoo.com
+ELX-1545,Smart Store,West,Gaming Headset,Mike Davis,2023-01-17,33,426.54,0.22,20.52,10979.14,10999.66,high,mike.davis.@yahoo.com
+ELX-1546,GadgetHub,North,Laptop Stand,Alice Brown,2023-06-11,45,24.98,0.17,12.59,$933.00,945.59,Medium,alice.browngmail.com
+ELX-1547,TechMart,East,Wireless Charger,Mike Davis,2023-05-13,12,665.05,0.06,14.43,7501.76,7516.19,,-
+ELX-1548,Smart Store,East,Wireless-Charger,Jane Doe,2023-09-13,28,264.48,0.18,12.45,6072.46,6084.91,High,JANE.DOE@GMAIL.COM
+ELX-1549,GadgetHub,East,Bluetooth Speaker,Jane Doe,2023-10-20,9,1175.44,0.17,21.28,,8801.82,low,jane.doeyahoo.com
+ELX-1550,  Digital World  ,South,Phone Holder,Alice Brown,2023-07-15,13,187.82,0.24,7.99,1855.66,1863.65,Medium,alice.brown@company.com
+ELX-1551,TechMart,South,Power Bank,Alice Brown,2023-03-10,41,627.65,0.18,20.71,"$21,101.59",21122.3,Medium,alice.brown@business.org
+ELX-1552,Digital World,East,Phone Holder,Mike Davis,2023-01-25,26,132.29,0.04,9.31,3301.96,3311.27,Medium,MIKE.DAVIS@COMPANY.COM
+ELX-1553,Digital World,West,Dell XPS 13,Alice Brown,2023-06-21,17,442.74,0.14,23.64,6472.86,6496.5,High,alice.brown.@gmail.com
+ELX-1554,Digital World,East,iPhone 15,Alice Brown,2023-03-04,23,1042.83,0.24,8.98,18228.67,18237.65,,alice.brown@gmail.com
+ELX-1555,Smart Store,Central,AirPods Pro,Bob Wilson,2023-07-01,21,812.73,0.12,19.73,15019.25,15038.98,high,BOB.WILSON@BUSINESS.ORG
+ELX-1556,TechMart,West,iPhone-Case,Alice Brown,2023-11-20,10,1043.89,0.16,23.57,8768.68,8792.25,HIGH,alice.brownyahoo.com
+ELX-1557,GadgetHub,Central,USB-C Cable,John Smith,2023-02-10,11,422.2,0.08,18.06,"$4,272.66",4290.72,Medium,john.smithcompany.com
+ELX-1558,Digital World,Central,USB-C Cable,Bob Wilson,2023-08-16,50,1037.43,0.09,16.74,47203.07,47219.81,Low,bob.wilsonyahoo.com
+ELX-1559,GadgetHub,West,AirPods Pro,Jane Doe,2023-01-12,9,877.41,0.17,23.81,6554.25,6578.06,medium,jane.doebusiness.org
+ELX-1560,TechMart,South,AirPods-Pro,Alice Brown,2023-02-22,7,90.59,0.22,15.97,494.62,510.59,Medium,ALICE.BROWN@GMAIL.COM
+ELX-1561,TechMart,West,Laptop Stand,John Smith,2023-02-23,17,747.45,0.02,23.63,12452.52,12476.15,medium,JOHN.SMITH@COMPANY.COM
+ELX-1562,GadgetHub,East,Apple Watch Series 9,Jane Doe,2023-05-26,29,757.38,,21.77,21305.1,21326.87,,jane.doe@company.com
+ELX-1563,TechMart,North,Wireless Charger,Bob Wilson,2023-09-01,30,1170.35,0.14,10.45,30195.03,30205.48,HIGH,bob.wilson@yahoo.com
+ELX-1564,GadgetHub,South,Phone Holder,Jane Doe,2023-10-30,39,556.0,0.19,22.55,17564.04,17586.59,Low,JANE.DOE@YAHOO.COM
+ELX-1565,GadgetHub,Central,Phone Holder,Bob Wilson,2023-06-27,31,654.51,0.2,13.84,"$16,231.85",16245.69,low,bob.wilson@company.com
+ELX-1566,  Digital World  ,West,Fitbit Charge 6,Jane Doe,2023-06-05,1,15.11,0.2,21.96,12.09,34.05,High,jane.doeyahoo.com
+ELX-1567,Digital World,East,Gaming Headset,Mike Davis,2023-01-05,45,1107.67,0.24,14.54,37882.31,37896.85,low,MIKE.DAVIS@YAHOO.COM
+ELX-1568,TechMart,West,iPhone-Case,Mike Davis,2023-04-29,1,664.63,0.05,22.64,$631.40,654.04,Medium,
+ELX-1569,GadgetHub,West,Apple Watch Series 9,Jane Doe,2023-11-27,25,996.69,0.06,6.58,23422.22,23428.8,low,jane.doe.@gmail.com
+ELX-1570,Electronics Plus,Central,Fitbit Charge 6,Bob Wilson,2023-11-29,48,645.35,0.07,8.76,28808.42,28817.18,low,bob.wilsongmail.com
+ELX-1571,TechMart,South,iPad Air,Bob Wilson,2023-02-26,41,554.58,0.11,19.01,20236.62,20255.63,high,bob.wilson@business.org
+ELX-1572,GadgetHub,South,Screen-Protector,John Smith,2023-03-19,4,1164.11,0.01,24.45,4609.88,4634.33,low,john.smith@business.org
+ELX-1573,Digital World,East,iPad Air,Alice Brown,2023-01-05,15,121.88,0.0,9.34,1828.2,1837.54,HIGH,alice.brownbusiness.org
+ELX-1574,GadgetHub,East,Gaming Headset,Bob Wilson,2023-08-26,45,952.84,0.08,21.87,39447.58,39469.45,High,BOB.WILSON@GMAIL.COM
+ELX-1575,  Electronics Plus  ,North,Fitbit Charge 6,Alice Brown,2023-02-06,35,572.12,0.05,21.83,"$19,022.99",19044.82,HIGH,ALICE.BROWN@YAHOO.COM
+ELX-1576,GadgetHub,North,Dell XPS 13,Jane Doe,2023-07-17,50,1170.34,0.06,24.89,55005.98,55030.87,,jane.doe.@business.org
+ELX-1577,Electronics Plus,West,Dell XPS 13,Mike Davis,2023-12-07,14,575.3,0.17,11.24,6684.99,6696.23,,MIKE.DAVIS@GMAIL.COM
+ELX-1578,Digital World,South,Samsung Galaxy S24,Mike Davis,2023-09-24,8,315.18,0.16,8.97,2118.01,2126.98,medium,mike.davis@business.org
+ELX-1579,  TechMart  ,South,Dell XPS 13,Jane Doe,2023-11-21,28,399.55,0.04,10.52,10739.9,10750.42,Medium,jane.doebusiness.org
+ELX-1580,TechMart,West,Apple Watch Series 9,John Smith,2023-01-22,38,943.42,0.12,16.92,31547.96,31564.88,HIGH,john.smith@business.org
+ELX-1581,Digital World,North,Apple Watch Series 9,Jane Doe,2023-09-13,6,827.84,0.08,24.39,4569.68,4594.07,low,
+ELX-1582,TechMart,North,Wireless Charger,Jane Doe,2023-12-26,35,952.89,0.03,9.65,32350.62,32360.27,,jane.doebusiness.org
+ELX-1583,Smart Store,East,Bluetooth Speaker,Jane Doe,2023-01-11,-45,462.66,0.18,10.01,17072.15,17082.16,high,JANE.DOE@COMPANY.COM
+ELX-1584,TechMart,West,Bluetooth Speaker,Mike Davis,2023-05-31,35,840.99,0.05,8.73,,27971.65,High,MIKE.DAVIS@BUSINESS.ORG
+ELX-1585,Digital World,East,Bluetooth Speaker,Bob Wilson,2023-11-03,36,205.01,0.13,13.99,6420.91,6434.9,low,bob.wilson.@company.com
+ELX-1586,Digital World,Central,Wireless Charger,Alice Brown,2023-01-01,50,771.06,0.09,8.71,35083.23,35091.94,High,ALICE.BROWN@COMPANY.COM
+ELX-1587,TechMart,Central,Wireless-Charger,Mike Davis,2023-05-03,21,869.39,0.16,15.78,15336.04,15351.82,low,mike.davis.@yahoo.com
+ELX-1588,GadgetHub,South,Laptop Stand,Alice Brown,2023-10-10,10,741.45,0.08,17.82,"$6,821.34",6839.16,HIGH,ALICE.BROWN@COMPANY.COM
+ELX-1589,TechMart,North,Laptop Stand,John Smith,2023-01-23,9,226.69,0.01,7.14,2019.81,2026.95,Low,
+ELX-1590,  Electronics Plus  ,North,Samsung Galaxy S24,Mike Davis,2023-11-25,25,794.64,0.13,19.03,"$17,283.42",17302.45,Medium,
+ELX-1591,Digital World,North,Wireless Charger,Jane Doe,2023-11-07,46,98.99,0.23,9.17,3506.23,3515.4,,JANE.DOE@COMPANY.COM
+ELX-1592,  GadgetHub  ,North,Bluetooth Speaker,John Smith,2023-07-04,36,896.02,0.22,21.44,25160.24,25181.68,HIGH,
+ELX-1593,TechMart,Central,Fitbit Charge 6,Mike Davis,2023-01-21,47,98.41,0.08,23.89,4255.25,4279.14,medium,mike.davis@yahoo.com
+ELX-1594,Smart Store,North,Dell XPS 13,Jane Doe,2023-09-30,25,239.51,0.13,9.98,5209.34,5219.32,Medium,jane.doe.@business.org
+ELX-1595,Electronics Plus,Central,Phone Holder,Alice Brown,2023-02-24,50,771.77,0.09,14.17,35115.54,35129.71,HIGH,
+ELX-1596,GadgetHub,North,AirPods Pro,Jane Doe,2023-10-09,26,613.06,0.16,15.68,13389.23,13404.91,Medium,jane.doeyahoo.com
+ELX-1597,Smart Store,West,Wireless Charger,Bob Wilson,2023-10-09,21,1016.15,0.1,17.66,19205.23,19222.89,low,bob.wilsongmail.com
+ELX-1598,Digital World,Central,Apple Watch Series 9,Mike Davis,2023-10-07,14,459.45,0.14,19.89,"$5,531.78",5551.67,HIGH,mike.davis.@yahoo.com
+ELX-1599,Digital World,West,Bluetooth Speaker,Alice Brown,2023-01-01,47,56.08,0.07,5.33,2451.26,2456.59,Medium,alice.brown.@company.com
+ELX-1600,Electronics Plus,East,iPhone 15,Bob Wilson,2023-04-24,14,1029.03,0.01,21.44,14262.36,14283.8,Low,bob.wilson@business.org
+ELX-1601,Digital World,Central,Laptop Stand,Mike Davis,2023-10-20,37,198.34,0.01,12.11,-,7277.3,low,MIKE.DAVIS@COMPANY.COM
+ELX-1602,  Electronics Plus  ,East,Wireless Charger,Mike Davis,2023-05-08,15,318.65,0.08,16.41,4397.37,4413.78,HIGH,MIKE.DAVIS@YAHOO.COM
+ELX-1603,Smart Store,South,MACBOOK PRO,Bob Wilson,2023-09-05,12,593.61,0.22,19.06,5556.19,5575.25,high,bob.wilson.@yahoo.com
+ELX-1604,TechMart,Central,iPhone Case,John Smith,2023-10-23,25,108.0,0.01,20.42,2673.0,2693.42,,john.smithyahoo.com
+ELX-1605,Digital World,West,Power Bank,John Smith,2023-04-27,48,788.54,0.15,5.23,"$32,172.43",32177.66,HIGH,john.smithbusiness.org
+ELX-1606,GadgetHub,North,IPHONE CASE,Mike Davis,2023-01-22,21,654.82,0.04,15.05,13201.17,13216.22,HIGH,MIKE.DAVIS@YAHOO.COM
+ELX-1607,Electronics Plus,South,Samsung Galaxy S24,Alice Brown,2023-08-17,49,720.23,0.13,9.44,30703.4,30712.84,High,alice.brown.@yahoo.com
+ELX-1608,Digital World,West,iPad Air,Jane Doe,2023-06-22,6,578.89,0.19,15.96,2813.41,2829.37,low,JANE.DOE@BUSINESS.ORG
+ELX-1609,  Digital World  ,North,USB-C Cable,Mike Davis,2023-08-11,50,841.98,0.19,14.62,34100.19,34114.81,high,mike.davis.@business.org
+ELX-1610,Electronics Plus,West,USB-C Cable,Mike Davis,2023-04-11,36,744.96,0.18,9.92,21991.22,22001.14,High,mike.davis.@yahoo.com
+ELX-1611,TechMart,East,Power Bank,Bob Wilson,2023-12-17,37,121.17,0.17,13.47,3721.13,3734.6,,bob.wilson.@business.org
+ELX-1612,Digital World,SOUTH,Screen Protector,Bob Wilson,2023-11-01,42,43.69,0.08,24.75,1688.18,1712.93,Medium,bob.wilsoncompany.com
+ELX-1613,Smart Store,West,iPad Air,Alice Brown,2023-01-23,15,251.63,0.09,20.15,"$3,434.75",3454.9,Medium,alice.brown.@company.com
+ELX-1614,TechMart,north,Samsung Galaxy S24,Jane Doe,2023-11-14,10,1044.47,0.21,5.27,8251.31,8256.58,Low,jane.doe.@company.com
+ELX-1615,TechMart,East,Bluetooth Speaker,Alice Brown,2023-01-12,22,262.68,0.13,9.08,5027.7,5036.78,,alice.brown.@business.org
+ELX-1616,  Smart Store  ,East,Phone Holder,Alice Brown,2023-11-15,47,1190.88,0.17,18.37,"$46,456.23",46474.6,,ALICE.BROWN@BUSINESS.ORG
+ELX-1617,GadgetHub,Central,Laptop Stand,John Smith,2023-05-11,11,86.23,0.05,18.93,901.1,920.03,HIGH,
+ELX-1618,Digital World,North,Bluetooth Speaker,John Smith,2023-02-04,25,797.54,0.17,23.26,16548.95,16572.21,HIGH,john.smith@business.org
+ELX-1619,  Digital World  ,North,iPhone 15,Bob Wilson,2023-11-29,25,288.93,0.1,24.53,6500.93,6525.45,Medium,bob.wilson.@business.org
+ELX-1620,  TechMart  ,East,Gaming Headset,Mike Davis,2023-09-30,6,235.9,0.13,14.16,"$1,231.40",1245.56,Medium,
+ELX-1621,TechMart,NORTH,Apple Watch Series 9,Mike Davis,2023-06-06,22,595.57,0.19,5.37,,10618.43,medium,mike.davisgmail.com
+ELX-1622,Digital World,east,iPhone Case,Jane Doe,2023-09-14,18,977.09,0.16,22.57,14773.6,14796.17,HIGH,jane.doe.@yahoo.com
+ELX-1623,TechMart,Central,Fitbit Charge 6,Jane Doe,2023-03-19,22,1078.15,0.16,6.76,19924.21,19930.97,,jane.doe.@company.com
+ELX-1624,  GadgetHub  ,Central,Apple Watch Series 9,Alice Brown,2023-05-04,37,196.01,0.24,23.19,5511.8,5534.99,High,alice.brown.@gmail.com
+ELX-1625,Digital World,West,Phone Holder,Jane Doe,2023-04-16,42,179.21,0.14,21.0,6473.07,6494.07,Low,
+ELX-1626,Electronics Plus,East,Laptop Stand,Jane Doe,2023-08-09,50,187.01,0.23,23.34,,7223.23,medium,jane.doeyahoo.com
+ELX-1627,Digital World,North,Phone Holder,Mike Davis,2023-03-02,12,391.35,0.22,19.54,3663.04,3682.58,HIGH,mike.davis.@business.org
+ELX-1628,Digital World,West,Power Bank,Bob Wilson,2023-08-15,48,1121.52,0.22,23.67,41989.71,42013.38,Medium,bob.wilson@gmail.com
+ELX-1629,Digital World,South,Sony WH-1000XM5,John Smith,2023-03-09,12,46.04,0.25,17.34,414.36,431.7,HIGH,john.smithyahoo.com
+ELX-1630,Smart Store,Central,Apple Watch Series 9,Mike Davis,2023-04-29,15,829.54,0.09,18.76,11323.22,11341.98,HIGH,-
+ELX-1631,GadgetHub,SOUTH,Laptop Stand,Mike Davis,2023-08-29,46,784.74,0.05,12.75,34293.14,34305.89,low,-
+ELX-1632,GadgetHub,South,AirPods Pro,Jane Doe,2023-04-26,3,499.18,0.24,23.51,1138.13,1161.64,Medium,jane.doe.@yahoo.com
+ELX-1633,GadgetHub,South,Sony WH-1000XM5,Jane Doe,2023-02-03,12,1113.62,0.25,22.34,10022.58,10044.92,Medium,jane.doe@business.org
+ELX-1634,GadgetHub,EAST,Bluetooth Speaker,Jane Doe,2023-08-07,26,934.81,0.15,21.49,20659.3,20680.79,Low,jane.doe@gmail.com
+ELX-1635,Digital World,West,Phone Holder,Mike Davis,2023-11-25,46,947.5,0.13,14.03,37918.95,37932.98,low,mike.davis.@company.com
+ELX-1636,TechMart,South,Laptop Stand,Mike Davis,2023-07-22,48,61.51,0.1,20.3,-,2677.53,Medium,
+ELX-1637,TechMart,South,iPhone Case,Alice Brown,2023-07-23,20,931.81,0.07,8.33,"$17,331.67",17340.0,Low,
+ELX-1638,Digital World,Central,Samsung Galaxy S24,Mike Davis,2023-03-14,30,998.42,0.11,19.45,26657.81,26677.26,,mike.davis.@gmail.com
+ELX-1639,TechMart,SOUTH,Phone Holder,Jane Doe,2023-07-21,27,398.3,0.01,14.07,10646.56,10660.63,Low,jane.doebusiness.org
+ELX-1640,Electronics Plus,West,MacBook Pro,Bob Wilson,2023-06-15,45,783.56,0.18,8.28,28913.36,28921.64,High,BOB.WILSON@YAHOO.COM
+ELX-1641,TechMart,North,Dell XPS 13,Alice Brown,2023-11-21,24,116.09,0.18,19.54,2284.65,2304.19,high,ALICE.BROWN@COMPANY.COM
+ELX-1642,Smart Store,Central,AirPods Pro,Alice Brown,2023-10-09,25,67.03,0.04,11.7,1608.72,1620.42,medium,ALICE.BROWN@YAHOO.COM
+ELX-1643,Electronics Plus,South,iPad Air,Jane Doe,2023-12-31,4,512.2,0.08,20.37,1884.9,1905.27,High,
+ELX-1644,GadgetHub,EAST,AirPods Pro,John Smith,2023-03-09,13,19.19,0.19,5.24,202.07,207.31,High,JOHN.SMITH@COMPANY.COM
+ELX-1645,GadgetHub,West,Phone Holder,John Smith,2023-11-08,32,296.89,0.15,14.51,8075.41,8089.92,medium,JOHN.SMITH@COMPANY.COM
+ELX-1646,  GadgetHub  ,west,MacBook Pro,Mike Davis,2023-11-04,1,304.99,0.14,17.4,262.29,279.69,low,mike.davis@company.com
+ELX-1647,Smart Store,South,Samsung Galaxy S24,Jane Doe,2023-03-17,4,789.13,0.01,22.08,3124.95,3147.03,low,jane.doe@yahoo.com
+ELX-1648,Smart Store,Central,iPhone Case,Bob Wilson,2023-02-14,4,144.03,0.25,8.23,432.09,440.32,Medium,bob.wilson.@company.com
+ELX-1649,Digital World,Central,Phone Holder,Jane Doe,2023-08-22,48,701.08,0.23,6.86,25911.92,25918.78,low,jane.doebusiness.org
+ELX-1650,    Digital World    ,east,Wireless Charger,Alice Brown,2023-02-04,49,521.38,0.14,10.86,21970.95,21981.81,HIGH,alice.brown.@yahoo.com
+ELX-1651,Electronics Plus,North,Fitbit Charge 6,Bob Wilson,2023-09-27,27,636.71,0.17,17.24,14268.67,14285.91,low,bob.wilsonbusiness.org
+ELX-1652,TechMart,Central,Laptop Stand,John Smith,2023-09-05,47,831.06,0.23,24.73,30076.06,30100.79,HIGH,john.smith.@business.org
+ELX-1653,Digital World,West,Screen Protector,Bob Wilson,2023-09-27,37,1194.1,0.09,7.59,40205.35,40212.94,HIGH,bob.wilsoncompany.com
+ELX-1654,Smart Store,West,Laptop Stand,Alice Brown,2023-09-10,12,1062.14,0.06,10.81,11980.94,11991.75,low,alice.brown.@company.com
+ELX-1655,Electronics Plus,North,Dell XPS 13,John Smith,2023-08-27,41,959.13,0.18,9.15,32245.95,32255.1,high,john.smithgmail.com
+ELX-1656,  Smart Store  ,West,Power Bank,John Smith,2023-06-20,23,679.09,0.16,5.23,13120.02,13125.25,medium,Missing
+ELX-1657,Electronics Plus,East,Fitbit Charge 6,John Smith,2023-06-07,20,615.43,0.08,5.12,11323.91,11329.03,Low,
+ELX-1658,Digital World,East,USB C Cable,Mike Davis,2023-11-12,2,1000.97,0.05,21.68,1901.84,1923.52,Medium,MIKE.DAVIS@GMAIL.COM
+ELX-1659,GadgetHub,West,Samsung Galaxy S24,Jane Doe,2023-04-09,10,758.23,0.22,15.74,5914.19,5929.93,High,jane.doe@company.com
+ELX-1660,  Digital World  ,West,Power Bank,John Smith,2023-09-24,20,684.46,0.17,16.1,,11378.14,Low,john.smith@business.org
+ELX-1661,TechMart,South,Screen Protector,Bob Wilson,2023-02-03,10,347.35,0.01,24.67,3438.76,3463.43,Medium,BOB.WILSON@COMPANY.COM
+ELX-1662,Smart Store,South,USB-C Cable,Jane Doe,2023-11-01,8,1039.54,0.19,19.11,6736.22,6755.33,low,jane.doe.@business.org
+ELX-1663,Digital World,north,Fitbit Charge 6,Alice Brown,2023-02-14,32,1054.3,0.09,21.59,30701.22,30722.81,,alice.brown@company.com
+ELX-1664,Digital World,South,Laptop Stand,Bob Wilson,2023-03-31,8,458.45,0.01,9.04,3630.92,3639.96,Medium,BOB.WILSON@GMAIL.COM
+ELX-1665,TechMart,west,Laptop Stand,John Smith,2023-09-05,33,197.58,0.09,14.67,5933.33,5948.0,,JOHN.SMITH@GMAIL.COM
+ELX-1666,  Smart Store  ,East,Screen Protector,Jane Doe,2023-02-20,34,816.91,0.03,19.49,26941.69,26961.18,low,JANE.DOE@GMAIL.COM
+ELX-1667,GadgetHub,West,Laptop Stand,John Smith,2023-01-03,20,1119.82,0.17,16.89,"$18,589.01",18605.9,HIGH,JOHN.SMITH@YAHOO.COM
+ELX-1668,TechMart,East,Bluetooth Speaker,John Smith,2023-02-22,34,922.92,0.19,5.45,"$25,417.22",25422.67,medium,JOHN.SMITH@GMAIL.COM
+ELX-1669,Digital World,South,Screen Protector,Jane Doe,2023-04-09,19,342.83,0.08,13.82,5992.67,6006.49,low,JANE.DOE@BUSINESS.ORG
+ELX-1670,TechMart,East,iPad Air,Jane Doe,2023-05-21,8,33.08,0.16,15.28,222.3,237.58,Low,jane.doe@yahoo.com
+ELX-1671,Electronics Plus,Central,Wireless Charger,Mike Davis,2023-06-13,18,182.74,0.18,10.67,2697.24,2707.91,Low,mike.davis.@business.org
+ELX-1672,Electronics Plus,South,MacBook Pro,Bob Wilson,2023-11-10,22,655.58,0.01,5.58,14278.53,14284.11,Low,
+ELX-1673,TechMart,north,USB-C Cable,John Smith,2023-02-14,28,479.42,0.18,22.83,"$11,007.48",11030.31,Low,john.smith@company.com
+ELX-1674,GadgetHub,Central,Wireless Charger,Bob Wilson,2023-06-20,13,859.78,0.17,15.67,"$9,277.03",9292.7,high,BOB.WILSON@YAHOO.COM
+ELX-1675,GadgetHub,Central,iPad Air,John Smith,2023-12-24,30,130.26,0.08,17.89,3595.18,3613.07,Medium,Missing
+ELX-1676,GadgetHub,West,Apple Watch Series 9,Jane Doe,2023-03-15,40,320.79,0.09,8.67,11676.76,11685.43,high,
+ELX-1677,Digital World,East,Bluetooth Speaker,Alice Brown,2023-01-16,5,578.27,0.09,14.22,2631.13,2645.35,,ALICE.BROWN@GMAIL.COM
+ELX-1678,  Electronics Plus  ,East,WIRELESS CHARGER,Mike Davis,2023-10-22,-9,616.92,0.1,19.29,,5016.34,Medium,mike.davis@business.org
+ELX-1679,TechMart,East,Phone Holder,John Smith,2023-06-04,35,561.26,0.15,9.77,16697.48,16707.25,Medium,john.smithgmail.com
+ELX-1680,Electronics Plus,Central,AirPods Pro,Alice Brown,2023-07-16,5,418.75,0.2,16.82,1675.0,1691.82,Medium,
+ELX-1681,  GadgetHub  ,Central,Screen Protector,Mike Davis,2023-12-22,16,220.11,0.17,19.79,2923.06,2942.85,low,mike.daviscompany.com
+ELX-1682,Smart Store,West,Dell XPS 13,Mike Davis,2023-11-02,30,400.57,0.02,13.9,11776.76,11790.66,low,MIKE.DAVIS@COMPANY.COM
+ELX-1683,Digital World,West,MacBook Pro,Mike Davis,2023-02-25,44,979.67,0.19,12.58,34915.44,34928.02,medium,mike.davisbusiness.org
+ELX-1684,GadgetHub,North,MACBOOK PRO,Jane Doe,2023-03-13,38,1085.36,0.16,5.0,34644.69,34649.69,Low,JANE.DOE@COMPANY.COM
+ELX-1685,Electronics Plus,South,Bluetooth Speaker,Mike Davis,2023-05-30,25,744.45,,9.11,16564.01,16573.12,,mike.davisyahoo.com
+ELX-1686,Digital World,East,iPhone Case,Alice Brown,2023-06-26,6,705.53,0.15,15.21,3598.2,3613.41,Medium,alice.brownyahoo.com
+ELX-1687,Electronics Plus,EAST,Samsung Galaxy S24,Bob Wilson,2023-10-09,4,16.0,0.14,24.57,,79.61,High,bob.wilsoncompany.com
+ELX-1688,TechMart,East,iphone 15,Jane Doe,2023-08-10,45,714.34,0.16,19.24,27002.05,27021.29,Medium,jane.doe@gmail.com
+ELX-1689,GadgetHub,West,Power Bank,Mike Davis,2023-04-19,43,220.49,0.03,16.11,9196.64,9212.75,high,mike.davisgmail.com
+ELX-1690,Digital World,West,iPad Air,Bob Wilson,2023-12-10,9,174.12,0.02,5.31,1535.74,1541.05,low,bob.wilson@company.com
+ELX-1691,GadgetHub,West,iPad Air,John Smith,2023-03-12,42,970.04,0.22,22.87,31778.51,31801.38,Medium,john.smith.@company.com
+ELX-1692,  Smart Store  ,West,AirPods Pro,Alice Brown,2023-09-18,28,669.18,,12.11,16675.97,16688.08,high,alice.brownyahoo.com
+ELX-1693,Electronics Plus,west,Apple iPhone 15,Mike Davis,2023-09-13,47,295.55,0.13,13.22,12085.04,12098.26,HIGH,mike.davis.@yahoo.com
+ELX-1694,Smart Store,CENTRAL,Wireless Charger,John Smith,2023-01-20,37,587.67,0.09,16.61,19786.85,19803.46,medium,
+ELX-1695,TechMart,South,Laptop Stand,Bob Wilson,2023-08-27,34,107.71,0.22,6.77,2856.47,2863.24,Low,bob.wilsonyahoo.com
+ELX-1696,GadgetHub,NORTH,Phone Holder,Mike Davis,2023-06-09,40,77.54,0.09,20.57,2822.46,2843.03,HIGH,mike.davis@company.com
+ELX-1697,  GadgetHub  ,West,Laptop Stand,Alice Brown,2023-10-21,47,407.84,0.09,24.56,17443.32,17467.88,medium,
+ELX-1698,Digital World,East,AirPods Pro,John Smith,2023-12-22,39,903.07,0.18,16.27,28880.18,28896.45,High,john.smith@business.org
+ELX-1699,TechMart,West,AirPods Pro,Mike Davis,2023-01-27,43,1188.58,0.2,17.49,40887.15,40904.64,medium,mike.davisbusiness.org
+ELX-1700,Digital World,West,macbook pro,Jane Doe,2023-09-16,5,1023.96,0.07,7.65,4761.41,4769.06,Low,jane.doe@business.org
+ELX-1701,Digital World,East,Fitbit Charge 6,John Smith,2023-02-27,39,221.92,0.15,8.02,7356.65,7364.67,Medium,Missing
+ELX-1702,GadgetHub,East,AIRPODS PRO,Bob Wilson,2023-12-25,16,589.63,0.2,22.24,7547.26,7569.5,Medium,bob.wilsonyahoo.com
+ELX-1703,Digital World,North,iPad Air,Mike Davis,2023-03-20,32,907.02,0.1,12.66,26122.18,26134.84,High,MIKE.DAVIS@BUSINESS.ORG
+ELX-1704,GadgetHub,South,Sony WH-1000XM5,Mike Davis,2023-06-26,4,776.08,0.19,7.32,"$2,514.50",2521.82,Medium,mike.davis@gmail.com
+ELX-1705,  Electronics Plus  ,West,USB-C Cable,Alice Brown,2023-06-04,31,899.19,0.19,15.65,22578.66,22594.31,,ALICE.BROWN@YAHOO.COM
+ELX-1706,GadgetHub,West,Gaming Headset,Bob Wilson,2023-03-16,34,1046.28,0.0,23.54,35573.52,35597.06,Low,bob.wilsongmail.com
+ELX-1707,GadgetHub,West,Screen Protector,Mike Davis,2023-12-16,3,130.38,0.13,12.08,340.29,352.37,Low,mike.davis@yahoo.com
+ELX-1708,GadgetHub,Central,Fitbit Charge 6,Bob Wilson,2023-05-19,18,965.74,0.06,16.68,16340.32,16357.0,high,BOB.WILSON@BUSINESS.ORG
+ELX-1709,GadgetHub,South,Sony WH-1000XM5,Mike Davis,2023-06-22,44,832.98,0.04,15.95,35185.08,35201.03,low,mike.davis.@company.com
+ELX-1710,TechMart,North,iPhone 15,Alice Brown,2023-02-20,34,138.13,0.11,9.39,4179.81,4189.2,High,alice.brownbusiness.org
+ELX-1711,Digital World,East,Sony WH-1000XM5,John Smith,2023-01-13,40,123.95,0.23,18.13,"$3,817.66",3835.79,HIGH,john.smith@yahoo.com
+ELX-1712,Electronics Plus,Central,Dell XPS 13,John Smith,2023-02-14,39,168.94,0.16,23.0,5534.47,5557.47,Medium,
+ELX-1713,  Smart Store  ,South,Dell XPS 13,Jane Doe,2023-05-10,19,568.34,0.23,17.78,8314.81,8332.59,,
+ELX-1714,  Digital World  ,West,Screen Protector,Bob Wilson,2023-03-24,50,102.69,0.19,12.66,4158.95,4171.61,low,Missing
+ELX-1715,Digital World,North,Fitbit Charge 6,Bob Wilson,2023-02-04,29,97.24,0.24,9.01,2143.17,2152.18,,bob.wilson@business.org
+ELX-1716,GadgetHub,South,Gaming Headset,John Smith,2023-03-15,35,925.92,0.05,17.87,30786.84,30804.71,medium,john.smith.@company.com
+ELX-1717,GadgetHub,East,Dell XPS 13,John Smith,2023-02-07,5,692.04,0.06,13.92,3252.59,3266.51,low,john.smith@company.com
+ELX-1718,GadgetHub,South,Apple iPhone 15,John Smith,2023-12-07,25,330.73,0.18,23.09,6779.97,6803.06,,john.smith.@business.org
+ELX-1719,Smart Store,North,Laptop Stand,Alice Brown,2023-09-02,28,493.64,0.18,21.25,11333.97,11355.22,low,alice.brown@yahoo.com
+ELX-1720,TechMart,Central,Apple Watch Series 9,John Smith,2023-07-16,45,984.3,0.12,16.34,38978.28,38994.62,high,
+ELX-1721,Digital World,East,iPhone Case,Alice Brown,2023-01-29,41,1196.46,0.16,12.31,41206.08,41218.39,low,alice.brown.@company.com
+ELX-1722,Digital World,North,Bluetooth Speaker,Bob Wilson,2023-11-28,13,224.29,0.01,12.68,2886.61,2899.29,HIGH,bob.wilsongmail.com
+ELX-1723,  Electronics Plus  ,East,USB-C Cable,John Smith,2023-11-19,45,440.72,0.02,17.66,19435.75,19453.41,medium,john.smithyahoo.com
+ELX-1724,Electronics Plus,South,Samsung Galaxy S24,Jane Doe,2023-01-13,47,1195.71,0.06,12.78,52826.47,52839.25,HIGH,jane.doegmail.com
+ELX-1725,Smart Store,East,Gaming Headset,Mike Davis,2023-08-19,2,58.9,0.01,20.76,116.62,137.38,Low,mike.davisyahoo.com
+ELX-1726,  TechMart  ,West,Dell XPS 13,Jane Doe,2023-12-01,43,634.9,0.24,22.4,20748.53,20770.93,low,jane.doe@business.org
+ELX-1727,Smart Store,South,Apple Watch Series 9,John Smith,2023-01-19,48,182.78,0.16,14.42,7369.69,7384.11,low,JOHN.SMITH@GMAIL.COM
+ELX-1728,Smart Store,North,Apple Watch Series 9,Jane Doe,2023-01-08,12,764.7,0.23,21.41,7065.83,7087.24,High,jane.doe.@yahoo.com
+ELX-1729,TechMart,West,AirPods Pro,Mike Davis,2023-02-02,7,150.3,,17.31,894.29,911.6,high,MIKE.DAVIS@COMPANY.COM
+ELX-1730,TechMart,South,Power Bank,Bob Wilson,2023-12-14,26,399.22,0.24,16.52,"$7,888.59",7905.11,High,bob.wilsonbusiness.org
+ELX-1731,Electronics Plus,East,Sony WH-1000XM5,John Smith,2023-10-31,12,412.57,0.03,7.82,4802.31,4810.13,medium,john.smithbusiness.org
+ELX-1732,  GadgetHub  ,South,Wireless Charger,Mike Davis,2023-03-26,29,303.72,0.15,7.67,7486.7,7494.37,medium,MIKE.DAVIS@YAHOO.COM
+ELX-1733,Smart Store,West,AirPods Pro,John Smith,2023-09-07,6,22.52,0.04,6.78,129.72,136.5,HIGH,john.smithyahoo.com
+ELX-1734,Smart Store,East,Power Bank,Alice Brown,2023-12-21,9,259.3,0.16,15.46,1960.31,1975.77,HIGH,alice.brown@company.com
+ELX-1735,GadgetHub,South,AirPods Pro,Mike Davis,2023-12-21,3,721.58,0.18,17.24,1775.09,1792.33,Low,mike.davis@yahoo.com
+ELX-1736,TechMart,East,Wireless Charger,Alice Brown,2023-01-03,36,294.23,0.03,15.6,10274.51,10290.11,Low,alice.brownbusiness.org
+ELX-1737,TechMart,Central,Wireless Charger,Mike Davis,2023-09-17,15,565.1,0.16,9.16,,7129.42,High,
+ELX-1738,TechMart,SOUTH,Dell XPS 13,Jane Doe,2023-12-17,31,604.56,Missing,23.45,17991.71,18015.16,High,JANE.DOE@COMPANY.COM
+ELX-1739,  TechMart  ,East,iPhone Case,Jane Doe,2023-08-11,17,411.14,0.2,20.17,5591.5,5611.67,Low,jane.doe@company.com
+ELX-1740,TechMart,North,Samsung  Galaxy  S24,Mike Davis,2023-04-01,11,945.81,0.12,7.32,-,9162.76,low,mike.davis.@gmail.com
+ELX-1741,Electronics Plus,WEST,Screen Protector,Alice Brown,2023-04-12,48,817.07,0.08,20.58,36081.81,36102.39,Medium,
+ELX-1742,  Digital World  ,South,Dell XPS 13,Jane Doe,2023-07-31,13,460.01,0.06,14.42,5621.32,5635.74,HIGH,
+ELX-1743,GadgetHub,North,Power Bank,Jane Doe,2023-04-21,40,554.16,0.1,7.73,19949.76,19957.49,Low,JANE.DOE@BUSINESS.ORG
+ELX-1744,  Electronics Plus  ,East,Fitbit Charge 6,Jane Doe,2023-06-21,9,53.03,0.14,10.61,410.45,421.06,High,jane.doeyahoo.com
+ELX-1745,TechMart,West,Bluetooth Speaker,Alice Brown,2023-03-29,49,422.14,0.22,17.07,16134.19,16151.26,high,alice.brown@gmail.com
+ELX-1746,Smart Store,South,Phone Holder,Jane Doe,2023-02-14,27,1030.51,0.12,24.91,"$24,484.92",24509.83,Medium,jane.doecompany.com
+ELX-1747,  Smart Store  ,West,Bluetooth Speaker,Bob Wilson,2023-01-08,47,522.31,0.22,9.96,19147.88,19157.84,HIGH,
+ELX-1748,GadgetHub,Central,Apple Watch Series 9,Mike Davis,2023-03-18,37,1079.43,0.1,5.88,35945.02,35950.9,Low,-
+ELX-1749,GadgetHub,Central,galaxy s24,Alice Brown,2023-09-29,26,582.93,0.2,21.43,12124.94,12146.37,High,ALICE.BROWN@BUSINESS.ORG
+ELX-1750,GadgetHub,West,Apple Watch Series 9,John Smith,2023-10-13,49,29.72,0.18,24.0,1194.15,1218.15,low,john.smithbusiness.org
+ELX-1751,Electronics Plus,East,iPhone Case,Jane Doe,2023-11-28,6,33.88,0.17,8.24,168.72,176.96,High,jane.doe.@gmail.com
+ELX-1752,  GadgetHub  ,Central,iPhone 15,Alice Brown,2023-08-26,50,179.27,0.18,8.7,7350.07,7358.77,HIGH,
+ELX-1753,  Digital World  ,West,iPhone 15,John Smith,2023-07-17,45,409.49,0.01,13.52,18242.78,18256.3,Low,john.smith.@yahoo.com
+ELX-1754,Digital World,Central,Phone Holder,Mike Davis,2023-04-17,44,110.94,0.22,19.72,3807.46,3827.18,Medium,MIKE.DAVIS@COMPANY.COM
+ELX-1755,TechMart,central,WIRELESS CHARGER,John Smith,2023-02-26,25,448.23,0.15,12.31,9524.89,9537.2,High,-
+ELX-1756,Electronics Plus,central,MacBook Pro,Mike Davis,2023-12-30,50,257.58,0.25,9.77,9659.25,9669.02,HIGH,mike.davisyahoo.com
+ELX-1757,TechMart,West,Sony WH-1000XM5,Jane Doe,2023-06-14,23,1079.05,0.13,13.46,21591.79,21605.25,low,JANE.DOE@YAHOO.COM
+ELX-1758,TechMart,North,Wireless Charger,Bob Wilson,2023-08-20,32,609.22,0.21,14.4,15401.08,15415.48,High,bob.wilsonyahoo.com
+ELX-1759,Smart Store,Central,iPhone Case,Alice Brown,2023-11-14,24,962.89,0.24,21.18,17563.11,17584.29,high,alice.brown@yahoo.com
+ELX-1760,  TechMart  ,South,Bluetooth Speaker,John Smith,2023-02-11,26,1079.07,0.07,24.13,26091.91,26116.04,medium,
+ELX-1761,TechMart,South,Fitbit Charge 6,John Smith,2023-12-23,10,603.15,0.22,15.41,-,4719.98,High,john.smithgmail.com
+ELX-1762,TechMart,East,Power Bank,Mike Davis,2023-03-09,31,425.84,0.11,17.89,11748.93,11766.82,medium,mike.davis.@yahoo.com
+ELX-1763,Digital World,South,MacBook Pro,John Smith,2023-04-29,34,778.94,0.1,11.86,23835.56,23847.42,medium,john.smith.@yahoo.com
+ELX-1764,Digital World,West,Laptop Stand,Mike Davis,2023-08-16,30,375.34,0.03,20.79,10922.39,10943.18,Medium,
+ELX-1765,Electronics Plus,East,Apple Watch Series 9,Alice Brown,2023-07-10,19,927.15,0.01,12.06,17439.69,17451.75,medium,alice.brown.@yahoo.com
+ELX-1766,GadgetHub,South,AirPods Pro,Mike Davis,2023-05-27,12,1168.25,0.21,18.86,11075.01,11093.87,HIGH,mike.davis.@business.org
+ELX-1767,Electronics Plus,South,Apple Watch Series 9,John Smith,2023-01-22,21,695.81,0.11,12.39,13004.69,13017.08,High,JOHN.SMITH@YAHOO.COM
+ELX-1768,Electronics Plus,CENTRAL,Samsung Galaxy S24,Bob Wilson,2023-06-26,10,456.9,0.13,8.25,3975.03,3983.28,Medium,
+ELX-1769,  Digital World  ,North,iPhone 15,Alice Brown,2023-09-13,50,187.28,0.11,11.4,8333.96,8345.36,Low,alice.brownyahoo.com
+ELX-1770,TechMart,Central,Laptop Stand,Bob Wilson,2023-11-28,46,365.23,0.22,24.39,13104.45,13128.84,medium,bob.wilsongmail.com
+ELX-1771,Smart Store,South,Bluetooth Speaker,Bob Wilson,2023-12-19,8,881.99,0.23,7.79,"$5,433.06",5440.85,HIGH,bob.wilsongmail.com
+ELX-1772,Smart Store,North,iPhone Case,John Smith,2023-07-25,40,1011.44,0.11,6.85,36007.26,36014.11,High,
+ELX-1773,TechMart,Central,Sony WH-1000XM5,Mike Davis,2023-09-27,15,940.82,0.19,8.91,11430.96,11439.87,high,MIKE.DAVIS@GMAIL.COM
+ELX-1774,TechMart,Central,Bluetooth Speaker,John Smith,2023-09-20,26,245.42,0.08,17.1,5870.45,5887.55,High,
+ELX-1775,TechMart,EAST,USB-C Cable,Jane Doe,2023-08-07,24,472.54,0.0,11.9,11340.96,11352.86,,JANE.DOE@YAHOO.COM
+ELX-1776,Digital World,West,Phone Holder,John Smith,2023-04-21,47,1067.05,0.19,13.31,40622.59,40635.9,medium,
+ELX-1777,  GadgetHub  ,East,AirPods Pro,Alice Brown,2023-08-01,9,1005.08,0.15,7.87,7688.86,7696.73,low,ALICE.BROWN@BUSINESS.ORG
+ELX-1778,  Digital World  ,West,Laptop Stand,Bob Wilson,2023-02-03,38,911.0,0.02,13.19,33925.64,33938.83,high,BOB.WILSON@COMPANY.COM
+ELX-1779,Digital World,West,AirPods Pro,Mike Davis,2023-08-25,46,687.98,0.23,8.99,24368.25,24377.24,low,mike.davis@business.org
+ELX-1780,  GadgetHub  ,East,Phone Holder,Alice Brown,2023-01-22,20,1003.98,0.08,16.19,18473.23,18489.42,low,ALICE.BROWN@COMPANY.COM
+ELX-1781,  GadgetHub  ,South,iPhone 15,John Smith,2023-03-20,17,370.7,0.16,17.73,5293.6,5311.33,Medium,john.smith.@company.com
+ELX-1782,TechMart,East,Power Bank,Jane Doe,2023-09-09,45,779.07,0.01,20.29,34707.57,34727.86,HIGH,jane.doe.@yahoo.com
+ELX-1783,GadgetHub,North,Wireless Charger,Mike Davis,2023-09-04,37,531.74,0.06,18.72,18493.92,18512.64,high,-
+ELX-1784,TechMart,East,Laptop Stand,Mike Davis,2023-09-01,17,207.97,0.01,11.39,3500.14,3511.53,low,mike.davis.@gmail.com
+ELX-1785,Electronics Plus,east,AirPods Pro,John Smith,2023-05-20,24,512.12,0.23,12.12,9463.98,9476.1,low,john.smith@company.com
+ELX-1786,Digital World,East,Laptop Stand,John Smith,2023-09-21,13,923.23,0.05,6.89,11401.89,11408.78,,
+ELX-1787,Electronics Plus,Central,Screen Protector,Bob Wilson,2023-12-17,20,336.68,0.17,12.25,5588.89,5601.14,medium,bob.wilson@yahoo.com
+ELX-1788,Smart Store,Central,Wireless Charger,Jane Doe,2023-01-07,9,629.03,0.09,14.7,5151.76,5166.46,high,
+ELX-1789,    Digital World    ,South,Dell XPS 13,Jane Doe,2023-03-21,33,277.02,0.05,22.94,8684.58,8707.52,Low,JANE.DOE@GMAIL.COM
+ELX-1790,Smart Store,Central,Phone Holder,Mike Davis,2023-12-26,49,966.06,0.1,23.32,42603.25,42626.57,HIGH,mike.daviscompany.com
+ELX-1791,TechMart,South,iPhone 15,Alice Brown,2023-06-28,20,833.9,0.03,13.84,16177.66,16191.5,medium,alice.brown.@company.com
+ELX-1792,Smart Store,Central,Screen Protector,Jane Doe,2023-12-30,20,49.08,0.2,9.45,785.28,794.73,low,
+ELX-1793,Electronics Plus,South,iPhone Case,Jane Doe,2023-04-18,9,1177.61,0.11,20.26,9432.66,9452.92,Low,
+ELX-1794,TechMart,North,iPhone 15,Alice Brown,2023-08-09,3,247.68,0.01,18.2,735.61,753.81,medium,alice.brownyahoo.com
+ELX-1795,Smart Store,North,Gaming Headset,John Smith,2023-05-10,3,93.5,0.17,20.09,232.81,252.91,High,john.smithgmail.com
+ELX-1796,TechMart,Central,Sony WH-1000XM5,Mike Davis,2023-04-13,12,809.66,0.01,7.91,9618.76,9626.67,HIGH,MIKE.DAVIS@COMPANY.COM
+ELX-1797,Digital World,Central,Wireless Charger,Bob Wilson,2023-03-24,33,940.25,0.15,15.1,26374.01,26389.11,Medium,BOB.WILSON@YAHOO.COM
+ELX-1798,TechMart,North,iPhone 15,Mike Davis,2023-04-22,46,241.98,0.07,23.03,10351.9,10374.93,Low,MIKE.DAVIS@GMAIL.COM
+ELX-1799,Smart Store,North,Dell XPS 13,Jane Doe,2023-09-16,46,577.54,0.17,8.7,22050.48,22059.18,high,JANE.DOE@COMPANY.COM
+ELX-1800,  TechMart  ,South,Wireless Charger,Alice Brown,2023-08-06,14,624.39,0.1,20.23,7867.31,7887.54,high,ALICE.BROWN@YAHOO.COM
+ELX-1801,Digital World,North,Bluetooth Speaker,John Smith,2023-09-24,9,602.54,0.09,10.77,"$4,934.80",4945.57,HIGH,john.smith.@yahoo.com
+ELX-1802,TechMart,North,Screen Protector,Alice Brown,2023-03-01,25,351.08,0.15,11.24,7460.45,7471.69,HIGH,alice.brown@yahoo.com
+ELX-1803,GadgetHub,South,Phone Holder,Alice Brown,2023-05-29,28,238.71,0.02,21.82,6550.2,6572.02,,ALICE.BROWN@YAHOO.COM
+ELX-1804,GadgetHub,East,AirPods Pro,John Smith,2023-12-12,32,811.43,0.1,15.45,23369.18,23384.63,medium,john.smithyahoo.com
+ELX-1805,TechMart,North,iPad Air,Alice Brown,2023-07-25,45,714.81,0.03,23.51,31201.46,31224.97,medium,alice.brownbusiness.org
+ELX-1806,Electronics Plus,North,Wireless Charger,Jane Doe,2023-06-23,13,720.03,0.25,7.46,7020.29,7027.75,medium,jane.doe@company.com
+ELX-1807,GadgetHub,West,Fitbit Charge 6,Mike Davis,2023-10-31,18,911.22,0.2,23.86,13121.57,13145.43,HIGH,mike.davis.@business.org
+ELX-1808,Digital World,West,USB-C Cable,Alice Brown,2023-09-19,-18,189.64,0.11,7.44,3038.03,3045.47,,ALICE.BROWN@BUSINESS.ORG
+ELX-1809,GadgetHub,West,Apple Watch Series 9,Jane Doe,2023-01-16,7,889.29,0.21,14.96,"$4,917.77",4932.73,high,-
+ELX-1810,TechMart,South,USB-C Cable,Mike Davis,2023-12-14,21,195.99,0.16,6.93,3457.26,3464.19,high,mike.daviscompany.com
+ELX-1811,TechMart,Central,Gaming Headset,Alice Brown,2023-04-14,19,799.58,0.12,10.23,,13379.21,medium,alice.brown@company.com
+ELX-1812,  Digital World  ,Central,Phone Holder,John Smith,2023-01-17,28,1057.95,,14.0,28733.92,28747.92,HIGH,john.smith.@gmail.com
+ELX-1813,GadgetHub,West,Bluetooth Speaker,John Smith,2023-01-17,12,674.65,0.22,11.06,6314.72,6325.78,medium,john.smithcompany.com
+ELX-1814,Electronics Plus,West,power bank,Jane Doe,2023-06-09,46,476.06,0.19,16.38,17738.0,17754.38,High,jane.doe@gmail.com
+ELX-1815,GadgetHub,Central,Phone Holder,Mike Davis,2023-08-29,31,681.27,0.04,6.11,20274.6,20280.71,HIGH,mike.davisbusiness.org
+ELX-1816,Digital World,WEST,USB-C Cable,Mike Davis,2023-12-13,23,923.27,0.07,6.23,19748.75,19754.98,High,
+ELX-1817,Smart Store,North,iPad Air,Bob Wilson,2023-06-28,48,707.0,0.19,17.5,27488.16,27505.66,Medium,
+ELX-1818,GadgetHub,North,Portable Charger,Bob Wilson,2023-07-02,27,431.25,0.17,9.95,9664.31,9674.26,medium,
+ELX-1819,Digital World,Central,MacBook Pro,John Smith,2023-06-06,8,415.05,0.0,11.52,"$3,320.40",3331.92,Low,john.smith.@yahoo.com
+ELX-1820,GadgetHub,WEST,Laptop Stand,Alice Brown,2023-05-17,2,839.71,0.15,24.72,1427.51,1452.23,,alice.browngmail.com
+ELX-1821,GadgetHub,Central,USB-C Cable,Bob Wilson,2023-10-21,7,972.87,0.03,18.5,6605.79,6624.29,Low,bob.wilsoncompany.com
+ELX-1822,Digital World,West,Laptop Stand,Bob Wilson,2023-03-27,40,369.93,0.24,9.04,11245.87,11254.91,Low,bob.wilson@business.org
+ELX-1823,TechMart,Central,Sony WH-1000XM5,Bob Wilson,2023-05-16,4,367.32,0.14,21.09,1263.58,1284.67,high,bob.wilsonyahoo.com
+ELX-1824,Smart Store,North,Dell XPS 13,Mike Davis,2023-06-22,18,94.71,0.2,14.51,1363.82,1378.33,low,mike.davisbusiness.org
+ELX-1825,Electronics Plus,East,MacBook Pro,Bob Wilson,2023-09-16,20,528.0,0.13,9.0,9187.2,9196.2,low,bob.wilson.@company.com
+ELX-1826,GadgetHub,East,Laptop Stand,Alice Brown,2023-12-10,49,663.86,0.22,17.56,25372.73,25390.29,low,alice.brown@gmail.com
+ELX-1827,Smart Store,South,Gaming Headset,Jane Doe,2023-12-05,48,1126.65,0.07,17.76,50293.66,50311.42,high,JANE.DOE@COMPANY.COM
+ELX-1828,Smart Store,West,Samsung Galaxy S24,Mike Davis,2023-04-13,24,563.05,0.06,19.93,12702.41,12722.34,low,MIKE.DAVIS@GMAIL.COM
+ELX-1829,Digital World,West,Power Bank,Bob Wilson,2023-02-02,41,256.22,0.1,21.47,9454.52,9475.99,HIGH,bob.wilsonbusiness.org
+ELX-1830,Electronics Plus,East,Apple Watch Series 9,Alice Brown,2023-05-03,8,192.71,0.01,20.94,1526.26,1547.2,,alice.brown.@business.org
+ELX-1831,Digital World,West,Gaming Headset,Mike Davis,2023-08-12,28,781.6,0.01,8.19,21665.95,21674.14,high,MIKE.DAVIS@GMAIL.COM
+ELX-1832,  Electronics Plus  ,North,Fitbit Charge 6,Bob Wilson,2023-12-04,36,223.54,0.21,24.28,6357.48,6381.76,,bob.wilsonbusiness.org
+ELX-1833,GadgetHub,North,Samsung Galaxy S24,John Smith,2023-06-10,39,368.11,0.02,24.1,14069.16,14093.26,HIGH,john.smith.@gmail.com
+ELX-1834,Digital World,North,Type-C Cable,Jane Doe,2023-05-01,8,691.6,0.13,7.41,4813.54,4820.95,,jane.doe@company.com
+ELX-1835,Smart Store,central,Fitbit Charge 6,Alice Brown,2023-02-16,16,725.79,0.19,11.27,9406.24,9417.51,,alice.brown.@business.org
+ELX-1836,Smart Store,West,Apple Watch Series 9,Alice Brown,2023-04-22,10,141.57,0.05,10.49,1344.91,1355.4,Medium,Missing
+ELX-1837,GadgetHub,East,Samsung Galaxy S24,Alice Brown,2023-10-01,24,844.05,0.03,15.91,,19665.39,low,
+ELX-1838,GadgetHub,South,Fitbit Charge 6,Jane Doe,2023-07-05,31,863.07,0.21,5.42,"$21,136.58",21142.0,Medium,JANE.DOE@YAHOO.COM
+ELX-1839,  Smart Store  ,North,Samsung Galaxy S24,Jane Doe,2023-05-10,36,470.86,0.16,19.01,"$14,238.81",14257.82,Low,jane.doe@gmail.com
+ELX-1840,TechMart,Central,Apple Watch Series 9,Alice Brown,2023-07-18,1,1093.1,0.1,24.56,983.79,1008.35,HIGH,alice.browncompany.com
+ELX-1841,Digital World,East,MacBook Pro,Jane Doe,2023-06-02,14,1033.41,0.04,13.78,13889.03,13902.81,high,Missing
+ELX-1842,Digital World,West,Samsung Galaxy S24,Bob Wilson,2023-02-11,50,1129.49,0.12,13.26,49697.56,49710.82,HIGH,bob.wilson@gmail.com
+ELX-1843,Digital World,West,Dell XPS 13,Jane Doe,2023-12-24,17,615.01,0.09,17.04,9514.2,9531.24,Low,jane.doe.@company.com
+ELX-1844,Smart Store,East,Bluetooth Speaker,John Smith,2023-01-27,42,775.29,0.16,20.82,27352.23,27373.05,medium,JOHN.SMITH@COMPANY.COM
+ELX-1845,Electronics Plus,North,USB-C Cable,Jane Doe,2023-11-18,20,386.76,0.02,8.16,7580.5,7588.66,Medium,
+ELX-1846,Smart Store,South,Power Bank,Bob Wilson,2023-08-20,31,1050.1,0.03,8.47,31576.51,31584.98,Medium,bob.wilson@company.com
+ELX-1847,Smart Store,East,iPhone Case,Jane Doe,2023-02-13,27,450.61,0.1,12.55,10949.82,10962.37,low,jane.doe@gmail.com
+ELX-1848,Smart Store,South,iPhone 15,John Smith,2023-10-13,42,740.22,0.06,6.78,29223.89,29230.67,Low,john.smithbusiness.org
+ELX-1849,GadgetHub,South,Fitbit Charge 6,Jane Doe,2023-01-26,26,747.33,0.15,7.99,16515.99,16523.98,medium,jane.doebusiness.org
+ELX-1850,Digital World,South,Dell XPS 13,John Smith,2023-09-27,28,931.43,0.23,21.55,20081.63,20103.18,Low,john.smith.@business.org
+ELX-1851,GadgetHub,North,Apple Watch Series 9,Jane Doe,2023-04-08,18,356.23,0.12,7.6,5642.68,5650.28,,Missing
+ELX-1852,Electronics Plus,Central,Sony WH-1000XM5,Bob Wilson,2023-12-13,13,510.72,0.1,7.92,"$5,975.42",5983.34,,bob.wilson@business.org
+ELX-1853,Digital World,East,Apple Watch Series 9,Mike Davis,2023-08-19,16,453.02,0.17,14.16,6016.11,6030.27,high,MIKE.DAVIS@GMAIL.COM
+ELX-1854,TechMart,West,iPad Air,Bob Wilson,2023-12-21,26,828.92,0.18,19.17,17672.57,17691.74,,BOB.WILSON@GMAIL.COM
+ELX-1855,Smart Store,East,MacBook Pro,John Smith,2023-10-13,4,76.75,-,14.42,236.39,250.81,High,john.smith@gmail.com
+ELX-1856,Digital World,CENTRAL,Galaxy S24,John Smith,2023-05-10,33,749.29,0.08,12.89,22748.44,22761.33,High,john.smith.@yahoo.com
+ELX-1857,Digital World,South,Phone Holder,John Smith,2023-10-25,12,323.45,-,23.61,"$3,376.82",3400.43,HIGH,
+ELX-1858,GadgetHub,South,MacBook Pro,Bob Wilson,2023-12-30,34,528.02,0.07,11.27,16695.99,16707.26,High,-
+ELX-1859,Electronics Plus,West,Fitbit Charge 6,Bob Wilson,2023-08-09,19,1084.81,0.07,21.59,,19190.18,high,Missing
+ELX-1860,Digital World,Central,Screen Protector,Alice Brown,2023-03-26,21,888.19,0.12,24.0,16413.75,16437.75,High,alice.browngmail.com
+ELX-1861,  Smart Store  ,West,Samsung Galaxy S24,Jane Doe,2023-03-18,4,287.38,-,10.2,1138.02,1148.22,high,jane.doe@yahoo.com
+ELX-1862,GadgetHub,West,Dell XPS 13,Alice Brown,2023-01-21,-29,437480.0,0.18,14.7,10403.27,10417.97,medium,alice.brown@company.com
+ELX-1863,GadgetHub,North,iPad Air,John Smith,2023-06-28,6,256.42,0.07,21.7,1430.82,1452.52,high,
+ELX-1864,Smart Store,East,Sony WH-1000XM5,Mike Davis,2023-01-03,34,923.71,0.05,23.41,29835.83,29859.24,high,mike.davis.@business.org
+ELX-1865,Electronics Plus,West,Dell XPS 13,Bob Wilson,2023-01-14,19,822.36,0.17,12.88,12968.62,12981.5,high,bob.wilson.@company.com
+ELX-1866,Smart Store,North,Screen Protector,Jane Doe,2023-01-15,6,560.38,0.18,14.6,2757.07,2771.67,high,jane.doecompany.com
+ELX-1867,Digital World,Central,iPhone 15,Bob Wilson,2023-01-23,42,752.5,0.11,23.95,28128.45,28152.4,HIGH,
+ELX-1868,Smart Store,South,Sony WH-1000XM5,John Smith,2023-11-26,19,397.96,0.01,6.41,7485.63,7492.04,,
+ELX-1869,Smart Store,West,MacBook Pro,Alice Brown,2023-05-11,12,299.49,0.19,12.98,2911.04,2924.02,High,alice.brownyahoo.com
+ELX-1870,TechMart,South,AirPods Pro,Alice Brown,2023-07-26,19,781.89,,8.08,11290.49,11298.57,low,
+ELX-1871,Digital World,west,Power Bank,Bob Wilson,2023-12-17,39,170.57,0.17,21.64,"$5,521.35",5542.99,HIGH,
+ELX-1872,Smart Store,South,Gaming Headset,Alice Brown,2023-07-18,31,333.15,0.15,6.8,8778.5,8785.3,medium,alice.brown.@company.com
+ELX-1873,GadgetHub,East,AirPods-Pro,Alice Brown,2023-11-19,28,125.14,0.13,24.47,3048.41,3072.88,HIGH,alice.brown.@yahoo.com
+ELX-1874,  Electronics Plus  ,South,Gaming Headset,Mike Davis,2023-11-19,42,636.74,0.07,13.75,24871.06,24884.81,Low,mike.davis@company.com
+ELX-1875,GadgetHub,East,iPad Air,Jane Doe,2023-12-17,20,1012.22,0.13,10.91,17612.63,17623.54,low,
+ELX-1876,TechMart,Central,MacBook Pro,John Smith,2023-09-20,7,620.12,0.1,14.29,"$3,906.76",3921.05,Medium,john.smithbusiness.org
+ELX-1877,Smart Store,East,Wireless Charger,Bob Wilson,2023-10-27,6,925.85,0.0,19.81,5555.1,5574.91,Low,bob.wilsonbusiness.org
+ELX-1878,GadgetHub,South,AirPods-Pro,Alice Brown,2023-01-24,6,508.26,0.18,11.28,2500.64,2511.92,,
+ELX-1879,GadgetHub,West,Fitbit Charge 6,Bob Wilson,2023-04-06,14,234.33,0.19,17.08,2657.3,2674.38,high,
+ELX-1880,TechMart,West,Phone Holder,John Smith,2023-01-03,26,153.26,0.04,14.54,3825.37,3839.91,high,john.smithyahoo.com
+ELX-1881,GadgetHub,Central,Gaming Headset,Bob Wilson,2023-11-13,40,442.46,0.17,18.81,14689.67,14708.48,medium,bob.wilson@company.com
+ELX-1882,  GadgetHub  ,East,MacBook-Pro,Jane Doe,2023-03-11,1,241.1,0.2,18.92,$192.88,211.8,,jane.doegmail.com
+ELX-1883,  Electronics Plus  ,North,Sony WH-1000XM5,Alice Brown,2023-11-29,10,784.94,0.11,17.52,,7003.49,medium,ALICE.BROWN@COMPANY.COM
+ELX-1884,Smart Store,South,MacBook Pro,Bob Wilson,2023-08-26,10,576.68,0.01,8.32,5709.13,5717.45,high,BOB.WILSON@COMPANY.COM
+ELX-1885,Electronics Plus,West,Gaming Headset,Alice Brown,2023-01-11,29,708.49,0.05,16.39,19518.9,19535.29,low,
+ELX-1886,GadgetHub,North,Screen Protector,John Smith,2023-02-22,41,1019.44,0.11,13.31,37199.37,37212.68,high,john.smith@yahoo.com
+ELX-1887,GadgetHub,Central,Phone Holder,Bob Wilson,2023-01-19,32,488.62,0.13,19.49,13603.18,13622.67,,BOB.WILSON@GMAIL.COM
+ELX-1888,GadgetHub,South,SAMSUNG GALAXY S24,Mike Davis,2023-01-10,28,698.04,0.14,10.36,16808.8,16819.16,Medium,mike.davis.@business.org
+ELX-1889,GadgetHub,West,Dell XPS 13,Alice Brown,2023-11-15,42,425.92,0.17,5.42,14847.57,14852.99,low,alice.brown.@yahoo.com
+ELX-1890,Digital World,South,Gaming Headset,Bob Wilson,2023-08-13,15,616.55,0.15,18.7,7861.01,7879.71,medium,
+ELX-1891,Smart Store,West,iPad Air,Bob Wilson,2023-12-31,25,1152.37,0.21,18.46,22759.31,22777.77,HIGH,bob.wilson@business.org
+ELX-1892,Digital World,West,AirPods Pro,Mike Davis,2023-04-17,19,833.48,0.02,14.66,15519.4,15534.06,medium,MIKE.DAVIS@COMPANY.COM
+ELX-1893,Electronics Plus,South,AirPods Pro,Mike Davis,2023-09-09,7,955.28,0.24,14.87,5082.09,5096.96,low,mike.davis.@gmail.com
+ELX-1894,Electronics Plus,South,Phone Holder,John Smith,2023-10-01,23,1058.87,0.09,8.17,22162.15,22170.32,Medium,
+ELX-1895,Smart Store,North,MacBook Pro,Bob Wilson,2023-08-09,8,746.81,0.03,9.48,5795.25,5804.73,High,BOB.WILSON@YAHOO.COM
+ELX-1896,Digital World,East,wireless charger,John Smith,2023-10-13,18,1077.14,0.21,22.47,15316.93,15339.4,Medium,john.smith.@yahoo.com
+ELX-1897,Smart Store,North,Samsung Galaxy S24,Alice Brown,2023-08-23,49,146.45,0.03,17.21,6960.77,6977.98,Medium,
+ELX-1898,TechMart,Central,Samsung Galaxy S24,Mike Davis,2023-02-23,11,761.46,0.22,23.22,6533.33,6556.55,HIGH,mike.davisyahoo.com
+ELX-1899,Electronics Plus,East,Bluetooth Speaker,Mike Davis,2023-09-13,47,1046.53,0.04,12.27,,47231.7,medium,
+ELX-1900,Electronics Plus,North,Sony WH-1000XM5,Alice Brown,2023-08-01,50,926.3,0.06,21.18,43536.1,43557.28,medium,alice.brown@yahoo.com
+ELX-1901,Digital World,East,Laptop Stand,Jane Doe,2023-02-13,18,456.34,0.19,12.21,,6665.65,low,jane.doecompany.com
+ELX-1902,Electronics Plus,South,Laptop Stand,Alice Brown,2023-04-27,9,965.1,0.1,13.19,Missing,7830.5,High,ALICE.BROWN@GMAIL.COM
+ELX-1903,GadgetHub,Central,Wireless Charger,John Smith,2023-08-15,10,927.63,0.18,15.35,7606.57,7621.92,HIGH,Missing
+ELX-1904,TechMart,North,Screen Protector,Bob Wilson,2023-07-25,50,209.72,0.02,20.18,10276.28,10296.46,HIGH,
+ELX-1905,Electronics Plus,Central,Galaxy S24,Mike Davis,2023-06-01,27,491.37,0.17,16.07,11011.6,11027.67,Medium,MIKE.DAVIS@BUSINESS.ORG
+ELX-1906,  Digital World  ,EAST,Wireless Charger,John Smith,2023-05-24,34,738.33,0.04,13.08,24099.09,24112.17,medium,john.smith.@business.org
+ELX-1907,Electronics Plus,Central,Bluetooth Speaker,Bob Wilson,2023-11-29,26,933.85,0.22,6.69,18938.48,18945.17,HIGH,bob.wilson.@company.com
+ELX-1908,Smart Store,East,USB-C Cable,Jane Doe,2023-09-24,35,351.45,0.02,16.04,12054.74,12070.78,Medium,jane.doe.@business.org
+ELX-1909,Smart Store,East,AirPods-Pro,John Smith,2023-01-15,35,717.12,0.06,20.48,23593.25,23613.73,high,john.smithcompany.com
+ELX-1910,GadgetHub,Central,Dell XPS 13,John Smith,2023-07-10,17,757.98,0.09,5.95,11725.95,11731.9,,JOHN.SMITH@COMPANY.COM
+ELX-1911,TechMart,West,iPhone Case,Mike Davis,2023-01-03,30,416.69,0.06,19.92,11750.66,11770.58,Medium,mike.davis@company.com
+ELX-1912,Smart Store,Central,Phone Holder,Mike Davis,2023-04-30,23,369.55,0.17,21.3,7054.71,7076.01,,mike.davis.@yahoo.com
+ELX-1913,Smart Store,South,USB C Cable,Mike Davis,2023-05-07,7,403.5,0.15,21.46,2400.82,2422.28,Medium,MIKE.DAVIS@YAHOO.COM
+ELX-1914,Digital World,WEST,Dell XPS 13,Jane Doe,2023-12-31,28,996.7,0.02,6.24,27349.45,27355.69,low,jane.doe@yahoo.com
+ELX-1915,Electronics Plus,West,Sony WH-1000XM5,Alice Brown,2023-02-09,24,817.03,0.1,16.18,17647.85,17664.03,medium,ALICE.BROWN@BUSINESS.ORG
+ELX-1916,GadgetHub,East,Gaming Headset,Alice Brown,2023-08-14,45,1118.28,0.12,24.47,44283.89,44308.36,low,alice.brown@company.com
+ELX-1917,Electronics Plus,South,Laptop Stand,Jane Doe,2023-09-06,46,557.39,0.24,15.26,19486.35,19501.61,low,jane.doe.@yahoo.com
+ELX-1918,Smart Store,North,Sony WH-1000XM5,Alice Brown,2023-08-31,3,899.6,0.24,12.39,2051.09,2063.48,Low,
+ELX-1919,TechMart,Central,Power Bank,John Smith,2023-03-03,24,692.54,0.01,8.07,"$16,454.75",16462.82,medium,-
+ELX-1920,Digital World,East,Wireless Charger,Bob Wilson,2023-05-31,32,48.15,0.04,20.68,1479.17,1499.85,medium,BOB.WILSON@BUSINESS.ORG
+ELX-1921,GadgetHub,North,iPhone Case,Bob Wilson,2023-04-21,12,985.66,0.12,7.45,10408.57,10416.02,Low,bob.wilson@business.org
+ELX-1922,Digital World,North,Samsung Galaxy S24,Alice Brown,2023-09-04,37,382.0,0.11,11.76,12579.26,12591.02,medium,alice.brown@yahoo.com
+ELX-1923,GadgetHub,West,iPad Air,Jane Doe,2023-09-16,41,561.21,0.11,13.98,20478.55,20492.53,Low,JANE.DOE@BUSINESS.ORG
+ELX-1924,Digital World,North,Power Bank,Alice Brown,2023-04-30,26,416.71,-,18.41,Missing,10744.53,High,alice.brown.@gmail.com
+ELX-1925,GadgetHub,East,MacBook Pro,Jane Doe,2023-12-29,2,692.81,0.2,19.15,1108.5,1127.65,Low,jane.doebusiness.org
+ELX-1926,Smart Store,North,Phone Holder,John Smith,2023-04-09,40,657.07,0.19,24.15,"$21,289.07",21313.22,medium,john.smith.@gmail.com
+ELX-1927,Smart Store,South,Gaming Headset,Mike Davis,2023-01-10,8,795.03,0.13,24.25,5533.41,5557.66,low,mike.davis.@gmail.com
+ELX-1928,  Digital World  ,SOUTH,Apple Watch Series 9,Mike Davis,2023-08-16,6,971.2,0.15,13.04,4953.12,4966.16,High,mike.davis@company.com
+ELX-1929,TechMart,West,iPhone 15,Bob Wilson,2023-08-12,12,506.7,0.21,11.35,4803.52,4814.87,Medium,
+ELX-1930,Digital World,North,Dell XPS 13,John Smith,2023-10-05,11,353.14,0.05,20.37,3690.31,3710.68,medium,john.smithbusiness.org
+ELX-1931,Electronics Plus,East,power bank,Jane Doe,2023-01-31,40,1153.93,0.05,19.27,43849.34,43868.61,HIGH,jane.doe.@business.org
+ELX-1932,Digital World,West,Dell XPS 13,Bob Wilson,2023-03-14,27,1073.22,0.06,23.83,"$27,238.32",27262.15,high,bob.wilson.@company.com
+ELX-1933,TechMart,North,Sony WH-1000XM5,Jane Doe,2023-11-02,38,295.24,0.13,15.09,9760.63,9775.72,HIGH,JANE.DOE@YAHOO.COM
+ELX-1934,TechMart,East,Samsung Galaxy S24,Bob Wilson,2023-08-26,36,497.39,0.12,13.15,15757.32,15770.47,HIGH,bob.wilsonbusiness.org
+ELX-1935,  Electronics Plus  ,North,Fitbit Charge 6,Mike Davis,2023-10-28,44,135.29,0.19,18.03,4821.74,4839.77,medium,mike.davis@company.com
+ELX-1936,Electronics Plus,East,Power Bank,Alice Brown,2023-02-12,41,608.01,0.2,7.85,19942.73,19950.58,Medium,alice.brown.@gmail.com
+ELX-1937,Smart Store,South,Apple Watch Series 9,Mike Davis,2023-08-05,36,550.31,0.0,14.29,19811.16,19825.45,HIGH,mike.davis@gmail.com
+ELX-1938,  Smart Store  ,East,AirPods Pro,John Smith,2023-01-31,31,338.86,0.06,18.6,-,9892.98,High,JOHN.SMITH@GMAIL.COM
+ELX-1939,Digital World,South,Laptop Stand,Bob Wilson,2023-01-24,11,890.93,0.14,11.01,8428.2,8439.21,HIGH,bob.wilsonbusiness.org
+ELX-1940,GadgetHub,North,iPad Air,Mike Davis,2023-05-24,28,264.86,0.13,21.04,6451.99,6473.03,High,mike.davisyahoo.com
+ELX-1941,Digital World,East,Bluetooth Speaker,Bob Wilson,2023-05-06,43,1179.88,0.09,14.2,46168.7,46182.9,high,bob.wilsonyahoo.com
+ELX-1942,Smart Store,East,iPhone 15,Jane Doe,2023-11-27,1,736.41,0.0,5.19,736.41,741.6,HIGH,
+ELX-1943,      Electronics Plus      ,West,Phone Holder,Alice Brown,2023-07-21,35,111.16,0.22,18.03,3034.67,3052.7,low,alice.brown@company.com
+ELX-1944,Smart Store,North,Bluetooth Speaker,John Smith,2023-06-30,25,995.55,0.09,8.54,22648.76,22657.3,Low,Missing
+ELX-1945,TechMart,North,Bluetooth Speaker,Bob Wilson,2023-04-09,29,26.1,0.19,20.17,613.09,633.26,medium,-
+ELX-1946,Digital World,South,MacBook Pro,Mike Davis,2023-11-17,20,972.97,0.06,24.6,18291.84,18316.44,HIGH,mike.davis.@yahoo.com
+ELX-1947,  Digital World  ,North,Fitbit Charge 6,Alice Brown,2023-12-27,46,733.14,0.0,24.69,,33749.13,high,alice.brown@yahoo.com
+ELX-1948,  GadgetHub  ,North,Fitbit Charge 6,Mike Davis,2023-09-14,32,217.02,0.05,19.78,6597.41,6617.19,Medium,mike.davis.@company.com
+ELX-1949,Smart Store,Central,AirPods Pro,John Smith,2023-10-29,9,898.98,0.03,23.67,7848.1,7871.77,medium,
+ELX-1950,Electronics Plus,Central,Fitbit Charge 6,Jane Doe,2023-12-14,2,1190.46,0.17,15.66,1976.16,1991.82,High,jane.doe@business.org
+ELX-1951,Digital World,CENTRAL,Bluetooth Speaker,John Smith,2023-08-07,42,812.62,0.16,22.08,28669.23,28691.31,HIGH,john.smith.@yahoo.com
+ELX-1952,Digital World,West,Power Bank,Bob Wilson,2023-03-04,44,629.18,0.12,15.35,24361.85,24377.2,low,bob.wilsonbusiness.org
+ELX-1953,TechMart,South,Samsung Galaxy S24,Bob Wilson,2023-08-04,35,546.9,0.0,8.89,19141.5,19150.39,medium,bob.wilson.@yahoo.com
+ELX-1954,  TechMart  ,Central,iPhone 15,Jane Doe,2023-12-20,28,1149.96,0.23,8.94,24793.14,24802.08,High,jane.doe.@gmail.com
+ELX-1955,Digital World,East,MacBook Pro,John Smith,2023-01-15,31,526.86,0.01,20.94,16169.33,16190.27,,john.smith@business.org
+ELX-1956,Digital World,east,Apple Watch Series 9,John Smith,2023-08-31,16,1151.18,0.21,21.43,14550.92,14572.35,high,john.smith@company.com
+ELX-1957,Smart Store,South,MacBook Pro,Mike Davis,2023-11-14,29,920.46,0.16,16.58,22422.41,22438.99,Low,MIKE.DAVIS@GMAIL.COM
+ELX-1958,TechMart,North,Samsung Galaxy S24,Alice Brown,2023-06-10,45,92.06,0.03,23.38,4018.42,4041.8,HIGH,alice.brown.@gmail.com
+ELX-1959,GadgetHub,North,iPhone Case,Mike Davis,2023-11-17,28,92.96,0.17,16.19,2160.39,2176.58,HIGH,mike.davisgmail.com
+ELX-1960,Digital World,WEST,USB-C Cable,John Smith,2023-11-13,49,502.16,0.22,20.75,19192.56,19213.31,high,JOHN.SMITH@GMAIL.COM
+ELX-1961,Smart Store,north,Bluetooth Speaker,Alice Brown,2023-08-26,28,1057.73,0.15,11.79,25173.97,25185.76,medium,alice.brown@gmail.com
+ELX-1962,  TechMart  ,West,Laptop Stand,Bob Wilson,2023-10-28,13,142.99,0.0,19.27,1858.87,1878.14,medium,
+ELX-1963,Smart Store,South,iPad Air,Mike Davis,2023-12-05,23,513.89,0.18,13.89,9691.97,9705.86,,MIKE.DAVIS@GMAIL.COM
+ELX-1964,Electronics Plus,South,Samsung Galaxy S24,John Smith,2023-03-07,20,707.66,0.13,18.03,12313.28,12331.31,low,john.smith@company.com
+ELX-1965,Digital World,East,Phone Holder,Jane Doe,2023-03-17,31,380.78,0.09,12.38,10741.8,10754.18,,jane.doeyahoo.com
+ELX-1966,  TechMart  ,Central,iPad Air,John Smith,2023-05-02,33,985.73,0.14,6.09,27975.02,27981.11,medium,john.smithbusiness.org
+ELX-1967,Digital World,South,Sony WH-1000XM5,Jane Doe,2023-02-05,22,239.39,,18.84,"$4,634.59",4653.43,HIGH,jane.doe.@yahoo.com
+ELX-1968,GadgetHub,Central,Screen Protector,Mike Davis,2023-10-17,22,745.08,0.1,8.25,"$14,752.58",14760.83,high,mike.davisgmail.com
+ELX-1969,GadgetHub,North,Gaming Headset,Jane Doe,2023-01-02,41,279.28,0.06,17.48,10763.45,10780.93,Low,JANE.DOE@COMPANY.COM
+ELX-1970,Electronics Plus,West,Screen Protector,Alice Brown,2023-04-16,26,233.33,0.25,12.26,4549.93,4562.19,HIGH,
+ELX-1971,TechMart,East,iPhone-15,Mike Davis,2023-02-28,10,359.33,0.05,16.71,3413.63,3430.34,,
+ELX-1972,Digital World,North,iPhone 15,Jane Doe,2023-04-12,19,221.36,0.22,19.38,3280.56,3299.94,HIGH,JANE.DOE@GMAIL.COM
+ELX-1973,  Digital World  ,Central,Apple Watch Series 9,Jane Doe,2023-04-11,2,223.65,0.07,7.02,-,423.01,Medium,jane.doe.@gmail.com
+ELX-1974,  Electronics Plus  ,West,Dell XPS 13,Bob Wilson,2023-04-18,20,555.6,0.09,12.45,,10124.37,High,bob.wilson@company.com
+ELX-1975,Electronics Plus,Central,Power Bank,John Smith,2023-03-02,10,1061.03,0.03,8.79,10291.99,10300.78,high,john.smithcompany.com
+ELX-1976,  Smart Store  ,West,Wireless Charger,Bob Wilson,2023-11-03,28,1172.72,0.06,5.92,30865.99,30871.91,medium,bob.wilson@yahoo.com
+ELX-1977,Smart Store,Central,Sony WH-1000XM5,Mike Davis,2023-05-31,10,403.3,0.01,20.91,3992.67,4013.58,Medium,mike.davisbusiness.org
+ELX-1978,Electronics Plus,Central,Gaming Headset,Jane Doe,2023-02-11,31,952.33,0.15,8.35,25093.9,25102.25,Low,JANE.DOE@YAHOO.COM
+ELX-1979,GadgetHub,Central,Wireless Charger,Alice Brown,2023-09-23,30,227.11,0.18,15.51,5586.91,5602.42,,Missing
+ELX-1980,  GadgetHub  ,West,Gaming Headset,Bob Wilson,2023-10-25,26,771.16,0.2,17.99,"$16,040.13",16058.12,,bob.wilson@business.org
+ELX-1981,Electronics Plus,South,Sony WH-1000XM5,Alice Brown,2023-05-01,-26,274.03,0.11,12.54,6341.05,6353.59,HIGH,alice.brown.@gmail.com
+ELX-1982,Electronics Plus,East,Fitbit Charge 6,Mike Davis,2023-02-13,9,905.67,0.07,15.38,7580.46,7595.84,medium,mike.davis.@yahoo.com
+ELX-1983,Electronics Plus,Central,SAMSUNG GALAXY S24,Alice Brown,2023-09-20,40,413.6,,13.65,14724.16,14737.81,Medium,alice.brownyahoo.com
+ELX-1984,Digital World,West,Screen Protector,Bob Wilson,2023-07-15,2,227.79,0.06,17.91,428.25,446.16,,bob.wilsonbusiness.org
+ELX-1985,Digital World,North,iPhone Case,Mike Davis,2023-09-20,35,777.73,0.2,23.53,21776.44,21799.97,high,mike.davis@business.org
+ELX-1986,TechMart,North,MacBook Pro,Bob Wilson,2023-01-20,35,252.36,0.05,11.58,-,8402.55,High,bob.wilson@company.com
+ELX-1987,Digital World,East,Sony WH-1000XM5,Mike Davis,2023-03-12,49,863.68,0.14,10.22,36395.48,36405.7,,MIKE.DAVIS@BUSINESS.ORG
+ELX-1988,Digital World,East,wireless charger,Alice Brown,2023-07-27,38,913.0,0.0,18.08,"$34,694.00",34712.08,HIGH,ALICE.BROWN@GMAIL.COM
+ELX-1989,Electronics Plus,West,Apple Watch Series 9,Jane Doe,2023-04-18,31,291.96,0.15,16.05,"$7,693.15",7709.2,low,jane.doe.@gmail.com
+ELX-1990,  GadgetHub  ,West,Screen Protector,John Smith,2023-06-10,13,523.12,0.24,13.35,5168.43,5181.78,HIGH,JOHN.SMITH@BUSINESS.ORG
+ELX-1991,GadgetHub,West,Phone Holder,John Smith,2023-07-11,9,699.35,0.03,23.87,6105.33,6129.2,HIGH,john.smith.@yahoo.com
+ELX-1992,TechMart,West,Wireless Charger,Bob Wilson,2023-04-26,27,519.48,0.19,20.26,11361.03,11381.29,low,bob.wilsoncompany.com
+ELX-1993,  Smart Store  ,East,Screen Protector,Mike Davis,2023-01-12,37,945.65,0.23,8.07,26941.57,26949.64,high,mike.davisbusiness.org
+ELX-1994,Digital World,Central,USB-C Cable,Alice Brown,2023-04-15,26,90.5,0.1,14.5,2117.7,2132.2,High,Missing
+ELX-1995,  Digital World  ,Central,Bluetooth Speaker,Bob Wilson,2023-02-17,11,138.61,0.14,5.64,1311.25,1316.89,HIGH,
+ELX-1996,Smart Store,West,iPhone 15,Jane Doe,2023-04-12,5,1094.94,0.1,9.12,4927.23,4936.35,High,jane.doe@business.org
+ELX-1997,Digital World,Central,MacBook Pro,Alice Brown,2023-01-30,24,629.46,0.04,22.19,14502.76,14524.95,High,alice.brown@business.org
+ELX-1998,GadgetHub,West,AirPods Pro,John Smith,2023-08-03,35,510.82,0.19,12.78,14481.75,14494.53,Low,JOHN.SMITH@COMPANY.COM
+ELX-1999,Electronics Plus,South,Sony WH-1000XM5,Bob Wilson,2023-08-10,46,802.78,0.04,16.5,35450.76,35467.26,HIGH,BOB.WILSON@BUSINESS.ORG
+ELX-1432,  Smart Store   Inc.,South,iPhone 15,John Smith,2023-11-17,47,309.86,0.17,11.89,12087.64,12099.53,Low,john.smith.@business.org
+ELX-1266,Electronics Plus,North,Gaming Headset,Jane Doe,2023-12-23,39,848970.0,0.1,9.79,29798.85,29808.64,low,janedoe.@business.org
+ELX-1409,TechMart,South,Bluetooth Speaker,Jane Doe,2023-07-28,48,589.09,0.13,12.48,24600.4,24612.88,High,JANEDOE@GMAIL.COM
+ELX-1967,Digital World,South,Sony WH-1000XM5,Jane Doe,2023-02-05,22,239.39,,18.84,"$4,634.59",4653.43,Low,jane.doegmail.com
+ELX-1962,  TechMart   Inc.,West,Laptop Stand,Bob Wilson,2023-10-28,13,142.99,0.0,19.27,1858.87,1878.14,High,bobwilson.@gmail.com
+ELX-1072,  GadgetHub  ,West,Dell XPS 13,Alice Brown,2023-07-05,41,1071.52,0.11,8.06,39099.76,39107.82,High,alicebrown.@yahoo.com
+ELX-1731,Electronics Plus,East,Sony WH-1000XM5,John Smith,2023-10-31,12,412.57,0.03,7.82,4802.31,4810.13,Low,JOHNSMITH@GMAIL.COM
+ELX-1429,GadgetHub Inc.,East,AirPods-Pro,Bob Wilson,2023-11-21,4,20.59,0.07,20.22,76.59,96.81,high,bob.wilson@gmail.com
+ELX-1806,Electronics Plus,North,Wireless Charger,Jane Doe,2023-06-23,13,720.03,0.25,7.46,7020.29,7027.75,high,
+ELX-1026,Electronics Plus Inc.,North,Bluetooth Speaker,Mike Davis,2023-02-20,4,787.79,0.14,5.3,2710.0,2715.3,medium,MIKEDAVIS@COMPANY.COM
+ELX-1276,TechMart Inc.,North,Laptop Stand,Jane Doe,2023-05-04,13,749.44,0.06,12.09,9158.16,9170.25,low,
+ELX-1700,Digital World,West,MacBook Pro,Jane Doe,2023-09-16,5,1023.96,0.07,7.65,4761.41,4769.06,Low,janedoe@company.com
+ELX-1337,Digital World Inc.,West,Screen Protector,Jane Doe,2023-05-07,18,778.88,0.06,17.02,13178.65,13195.67,,jane.doe@yahoo.com
+ELX-1931,Electronics Plus,East,Power Bank,Jane Doe,2023-01-31,40,1153.93,0.05,19.27,43849.34,43868.61,Low,jane.doebusiness.org
+ELX-1149,GadgetHub Inc.,West,Gaming Headset,Mike Davis,2023-08-15,27,338700.0,0.19,7.28,7407.37,7414.65,High,mike.davis.@yahoo.com
+ELX-1010,Smart Store Inc.,East,Sony WH-1000XM5,Alice Brown,2023-07-22,42,558.74,0.07,9.93,21824.38,21834.31,low,alice.browngmail.com
+ELX-1409,TechMart Inc.,South,Bluetooth Speaker,Jane Doe,2023-07-28,48,589.09,0.13,12.48,24600.4,24612.88,,janedoebusiness.org
+ELX-1974,  Electronics Plus   Inc.,West,Dell XPS 13,Bob Wilson,2023-04-18,20,555.6,0.09,12.45,,10124.37,,bobwilson@gmail.com
+ELX-1179,  TechMart  ,North,Fitbit Charge 6,Jane Doe,2023-03-18,36,1129.17,0.15,13.47,34552.6,34566.07,,jane.doebusiness.org
+ELX-1097,GadgetHub,North,Screen Protector,Bob Wilson,2023-06-15,8,1164.67,0.1,15.29,8385.62,8400.91,Low,bob.wilson.@gmail.com
+ELX-1564,GadgetHub,South,Phone Holder,Jane Doe,2023-10-30,39,556.0,0.19,22.55,17564.04,17586.59,low,janedoegmail.com
+ELX-1918,Smart Store Inc.,North,Sony WH-1000XM5,Alice Brown,2023-08-31,3,899.6,0.24,12.39,2051.09,2063.48,HIGH,alicebrowncompany.com
+ELX-1325,GadgetHub,WEST,iPad Air,Mike Davis,2023-11-20,18,758.96,0.09,6.51,12431.76,12438.27,medium,mikedavisbusiness.org
+ELX-1353,TechMart,South,Apple Watch Series 9,Mike Davis,2023-01-24,26,96.68,0.12,10.65,2212.04,2222.69,HIGH,
+ELX-1261,  Digital World  ,West,Power Bank,Jane Doe,2023-06-03,25,232.9,0.13,9.82,5065.57,5075.39,High,janedoeyahoo.com
+ELX-1318,GadgetHub Inc.,CENTRAL,Laptop Stand,John Smith,2023-10-21,8,332.45,0.14,24.82,2287.26,2312.08,,JOHNSMITH@YAHOO.COM
+ELX-1775,TechMart,EAST,USB-C Cable,Jane Doe,2023-08-07,24,472.54,0.0,11.9,11340.96,11352.86,high,
+ELX-1758,TechMart Inc.,North,Wireless Charger,Bob Wilson,2023-08-20,32,609.22,0.21,14.4,15401.08,15415.48,low,bob.wilson.@yahoo.com
+ELX-1937,Smart Store Inc.,South,Apple Watch Series 9,Mike Davis,2023-08-05,36,550.31,0.0,14.29,19811.16,19825.45,high,mike.davis@business.org
+ELX-1724,Electronics Plus,South,Samsung Galaxy S24,Jane Doe,2023-01-13,47,1195.71,0.06,12.78,52826.47,52839.25,low,Missing
+ELX-1564,GadgetHub,South,Phone Holder,Jane Doe,2023-10-30,39,556.0,0.19,22.55,17564.04,17586.59,HIGH,janedoecompany.com
+ELX-1625,Digital World Inc.,West,Phone Holder,Jane Doe,2023-04-16,42,179.21,0.14,21.0,6473.07,6494.07,medium,jane.doe.@business.org
+ELX-1832,  Electronics Plus  ,North,Fitbit Charge 6,Bob Wilson,2023-12-04,36,223.54,0.21,24.28,6357.48,6381.76,,
+ELX-1162,TechMart Inc.,West,Sony WH-1000XM5,Bob Wilson,2023-11-06,31,609.12,0.24,14.01,14350.87,14364.88,high,bobwilsonbusiness.org
+ELX-1191,TechMart Inc.,North,Screen Protector,Bob Wilson,2023-06-06,29,729.11,0.11,18.8,18818.33,18837.13,medium,bobwilson@yahoo.com
+ELX-1173,Electronics Plus,East,Bluetooth Speaker,Alice Brown,2023-05-25,50,467.52,0.13,24.33,20337.12,20361.45,high,alice.brown@gmail.com
+ELX-1021,Electronics Plus,Central,Apple Watch Series 9,John Smith,2023-02-06,46,762.86,0.06,23.11,32986.07,33009.18,HIGH,
+ELX-1982,Electronics Plus,East,Fitbit Charge 6,Mike Davis,2023-02-13,9,905.67,0.07,15.38,7580.46,7595.84,High,MIKEDAVIS@YAHOO.COM
+ELX-1830,Electronics Plus Inc.,East,Apple Watch Series 9,Alice Brown,2023-05-03,8,192.71,0.01,20.94,1526.26,1547.2,,alicebrowncompany.com
+ELX-1014,TechMart,Central,Fitbit Charge 6,Bob Wilson,2023-02-27,19,530.2,0.11,24.08,8965.68,8989.76,high,
+ELX-1500,  GadgetHub   Inc.,East,Wireless Charger,Jane Doe,2023-12-14,47,407.9,0.12,13.91,16870.74,16884.65,Low,jane.doe.@company.com
+ELX-1345,GadgetHub Inc.,SOUTH,Samsung Galaxy S24,Jane Doe,2023-02-14,28,152.44,0.15,6.1,3628.07,3634.17,medium,janedoe@company.com
+ELX-1153,Digital World,North,USB-C Cable,John Smith,2023-08-12,2,559.81,0.02,11.26,1097.23,1108.49,low,
+ELX-1723,  Electronics Plus   Inc.,East,USB-C Cable,John Smith,2023-11-19,45,440.72,0.02,17.66,19435.75,19453.41,HIGH,JOHN.SMITH@GMAIL.COM
+ELX-1149,GadgetHub Inc.,West,Gaming Headset,Mike Davis,2023-08-15,27,338.7,0.19,7.28,7407.37,7414.65,medium,mikedavisbusiness.org
+ELX-1764,Digital World Inc.,West,Laptop Stand,Mike Davis,2023-08-16,30,375.34,0.03,20.79,10922.39,10943.18,low,MIKE.DAVIS@YAHOO.COM
+ELX-1511,Digital World Inc.,West,Gaming Headset,Mike Davis,2023-01-04,33,1060.21,0.11,9.6,31138.37,31147.97,HIGH,-
+ELX-1612,Digital World,SOUTH,screen protector,Bob Wilson,2023-11-01,42,43.69,0.08,24.75,1688.18,1712.93,low,bob.wilson@gmail.com
+ELX-1542,Electronics Plus Inc.,South,Sony WH-1000XM5,Jane Doe,2023-11-13,23,199.85,0.03,23.4,4458.65,4482.05,Medium,janedoe@yahoo.com
+ELX-1806,Electronics Plus Inc.,North,Wireless Charger,Jane Doe,2023-06-23,13,720.03,0.25,7.46,7020.29,7027.75,low,jane.doebusiness.org
